@@ -1,0 +1,496 @@
+ID,CAS No.,SMILES,Chemical structure,GHS Acute Toxicity Hazard Categories,Other Toxicity Category,ALOGP,ALOGpS,MW,LUMO,E,Ad,Exp. log(1/EC50) [mmol/L],Pred. log(1/EC50) [mmol/L]
+ID-482,23184669.0,O=C(N(COCCCC)C1=C(CC)C=CC=C1CC)CCl,"N-(Butoxymethyl)-2-Chloro-2',6'-diethylacetanilide ",Acute II,Highly & moderately toxic,4.2,-4.64,311.85,0.087,2.281549176,34.729313,2.22,2.02095202971616
+ID-443,5329124.0,NNC1=C(Cl)C=C(Cl)C=C1Cl,"2,4,6-Trichlorophenylhydrazine",Acute II,Highly & moderately toxic,2.98,-3.02,211.48,-1.094,3.257490819,19.412084,2.21,1.7422922058654
+ID-51,85018.0,C12=CC=CC=C1C=CC3=CC=CC=C23,Phenanthrene,Acute II,Highly & moderately toxic,4.55,-5.72,178.23,-0.649,2.74524786,23.979701,2.21,2.4556961665043
+ID-06,58902.0,OC1=C(Cl)C=C(Cl)C(Cl)=C1Cl,"2,3,4,6-Tetrachlorophenol",Acute II,Highly & moderately toxic,4.37,-3.37,231.89,-1.302,3.602228315,19.423828,2.22,2.07568026375443
+ID-253,118796.0,OC1=C(Br)C=C(Br)C=C1Br,"2,4,6-Tribromophenol",Acute II,Highly & moderately toxic,4.2,-3.78,330.8,-0.986,3.21166181,20.873428,2.18,2.71437385426667
+ID-383,843550.0,OC1=CC=C(C2(C3=CC=C(O)C=C3)CCCCC2)C=C1,"1,1-Bis(4-hydroxyphenyl)-cyclohexane",Acute II,Highly & moderately toxic,4.77,-4.28,268.35,0.096,2.134533416,32.273948,2.17,2.00156587466877
+ID-474,19398619.0,CC1=CC(Cl)=CC=C1Cl,"2,5-Dichlorotoluene",Acute II,Highly & moderately toxic,3.97,-3.6,161.03,-0.563,2.878247753,16.392755,2.17,2.09608657892758
+ID-79,90608.0,OC1=C(Cl)C=C(Cl)C=C1C=O,"3,5-Dichlorosalicylaldehyde",Acute II,Highly & moderately toxic,2.89,-2.27,191.01,-1.349,3.678432807,17.440546,2.14,1.73863717047642
+ID-248,115866.0,O=P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,Triphenyl phosphate,Acute II,Highly & moderately toxic,4.16,-3.98,326.29,-0.916,3.007147948,38.393139,2.13,3.30300239527402
+ID-178,104518.0,CCCCC1=CC=CC=C1,Butylbenzene,Acute I,Highly & moderately toxic,4.34,-4.3,134.22,0.33,2.122153216,17.810515,2.13,1.99453839696067
+ID-464,13826352.0,OCC1=CC=CC(OC2=CC=CC=C2)=C1,"Benzyl alcohol, 3-phenoxy-",Acute II,Highly & moderately toxic,3.0,-3.6,200.24,0.045,2.19447608,23.769509,2.13,1.70163111155376
+ID-240,112129.0,CC(CCCCCCCCC)=O,2-Undecanone,Acute II,Highly & moderately toxic,4.25,-4.16,170.29,0.958,1.887070601,21.191127,2.12,2.04763689871228
+ID-258,120821.0,ClC1=CC=C(Cl)C(Cl)=C1,"1,2,4-Trichlorobenzene",Acute II,Highly & moderately toxic,4.08,-3.83,181.45,-0.987,3.333345698,16.551109,2.11,2.02611839194375
+ID-282,127184.0,ClC(Cl)=C(Cl)Cl,Tetrachloroethylene,Acute II,Highly & moderately toxic,3.13,-2.7,165.83,-0.981,3.382741075,12.205627,2.11,1.53412089022835
+ID-355,599644.0,OC1=CC=C(C(C)(C)C2=CC=CC=C2)C=C1,"4-(α,α-Dimethylbenzyl)phenol",Acute II,Highly & moderately toxic,4.7,-4.01,212.29,0.129,2.139085742,26.50067,2.1,2.06667709714544
+ID-44,80513.0,O=S(C1=CC=C(OC2=CC=C(S(=O)(NN)=O)C=C2)C=C1)(NN)=O,"4,4'-Oxybis(benzenesulfonylhydrazide)",Acute II,Highly & moderately toxic,1.23,-3.59,358.39,-1.088,3.400234377,34.491819,2.09,2.13035450248387
+ID-287,131577.0,O=C(C1=CC=CC=C1)C2=CC=C(OC)C=C2O,2-Hydroxy-4-methoxybenzophenone,Acute II,Highly & moderately toxic,3.35,-3.25,228.25,-0.428,2.657483899,26.009643,2.08,2.23136645073344
+ID-502,49619581.0,O=C1C(C=O)=COC2=C1C=C(C(C)C)C=C2,3-Formyl-6-isopropylchromone,Acute II,Highly & moderately toxic,2.89,-3.72,216.24,-1.004,3.296757464,24.167629,2.08,1.77975730166081
+ID-483,25013165.0,OC1=CC=C(OC)C=C1C(C)(C)C,Butylated hydroxyanisole,Acute II,Highly & moderately toxic,3.25,-2.27,360.49,0.027,2.061587264,41.209185,2.2,2.06971701875798
+ID-101,95318.0,CC(NSC1=NC2=CC=CC=C2S1)(C)C,N-(tert-Butyl)-2-benzothiazolylsulfenamide,Acute II,Highly & moderately toxic,3.67,-3.97,238.37,-0.799,2.794951111,28.147047,2.26,2.36499101419593
+ID-105,95498.0,CC1=CC=CC=C1Cl,o-Chlorotoluene,Acute I,Highly & moderately toxic,3.27,-2.93,126.59,-0.145,2.511223456,14.269208,2.26,1.92442790041816
+ID-86,91598.0,NC1=CC=C2C=CC=CC2=C1,beta-Naphthylamine,Acute I,Highly & moderately toxic,2.3,-2.26,143.19,-0.374,2.328310168,18.785427,2.23,1.93083066686387
+ID-266,122667.0,C1(NNC2=CC=CC=C2)=CC=CC=C1,Hydrazobenzene,Acute II,Highly & moderately toxic,2.88,-2.5,184.24,0.188,1.97309643,23.2366,2.22,1.53000241969722
+ID-405,1678917.0,CCC1CCCCC1,Ethylcyclohexane,Acute I,Highly & moderately toxic,4.59,-4.43,112.21,3.925,0.767232206,14.950413,2.22,2.59399452975465
+ID-120,95954.0,OC1=CC(Cl)=C(Cl)C=C1Cl,"2,4,5-Trichlorophenol",Acute I,Highly & moderately toxic,3.79,-2.62,197.45,-1.041,3.297252349,17.355054,2.3,1.82694741156586
+ID-493,28249776.0,O=C(SCC1=CC=C(Cl)C=C1)N(CC)CC,S-4-Chlorobenzyl diethylthiocarbamate,Acute II,Highly & moderately toxic,3.51,-4.16,257.78,-0.558,2.727247949,28.669765,2.3,2.47781557981952
+ID-509,68972963.0,C1(COC/C=C\COCC2=CC=CC=C2)=CC=CC=C1,"cis-1,4-Dibenzyloxy-2-butene",Acute II,Highly & moderately toxic,4.11,-5.53,268.35,0.307,2.124728427,31.801307,2.28,2.24501478809808
+ID-110,95556.0,OC1=CC=CC=C1N,o-Aminophenol,Acute I,Highly & moderately toxic,0.35,0.02,109.13,0.178,1.935504473,12.548434,2.28,1.50066162563535
+ID-427,3048655.0,C12C=CCC1CC=CC2,"3a,4,7,7a-Tetrahydro-1H-indene",Acute I,Highly & moderately toxic,3.27,-3.54,120.19,1.139,1.647699906,15.685618,2.22,1.61785341040047
+ID-358,615587.0,OC1=CC=C(Br)C=C1Br,"2,4-Dibromophenol",Acute II,Highly & moderately toxic,3.47,-2.49,251.91,-0.692,2.896464252,17.575572,2.08,1.98640826267101
+ID-336,534521.0,CC1=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C1O,"4,6-Dinitro-o-cresol",Acute II,Highly & moderately toxic,2.09,-2.84,198.13,-1.824,4.390899726,17.638616,2.07,1.64609534122356
+ID-113,95750.0,CC1=CC=C(Cl)C(Cl)=C1,"3,4-Dichlorotoluene",Acute II,Highly & moderately toxic,3.97,-3.68,161.03,-0.493,2.803356349,16.346502,2.06,2.18005415825548
+ID-152,100141.0,O=[N+](C1=CC=C(CCl)C=C1)[O-],alpha-Chloro-4-nitrotoluene ,Acute II,Highly & moderately toxic,2.57,-3.15,171.58,-1.605,4.166582821,16.641413,2.06,1.95331058913573
+ID-242,112301.0,CCCCCCCCCCO,1-Decanol,Acute II,Highly & moderately toxic,4.24,-3.51,158.28,2.848,1.103211061,19.74437,2.05,1.24890328766512
+ID-91,92524.0,C1(C2=CC=CC=C2)=CC=CC=C1,Biphenyl,Acute II,Highly & moderately toxic,4.02,-4.01,154.21,-0.475,2.629012926,20.672789,2.04,2.30329393805163
+ID-111,95647.0,NC1=CC=C(C)C(C)=C1,"3,4-Dimethylaniline",Acute II,Highly & moderately toxic,1.82,-1.43,121.18,0.536,1.637562617,15.665442,2.04,1.2100452450546
+ID-412,2222335.0,O=C1C=CC=C2C=C(C=CC=C3)C3=CC=C21,"Dibenzo[b,f]cyclohepten-1-one",Acute II,Highly & moderately toxic,3.62,-3.5,206.24,-1.706,3.787841374,28.243465,2.04,2.34391716863287
+ID-449,6099792.0,CC(CC)C1=C(OC)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1,Dinoseb methyl ether,Acute II,Highly & moderately toxic,3.16,-4.03,254.24,-1.841,4.447439767,24.913452,2.03,1.92365779899335
+ID-352,582161.0,CC1=CC2=CC(C)=CC=C2C=C1,"2,7-Dimethylnaphthalene",Acute II,Highly & moderately toxic,4.37,-4.55,156.23,-0.394,2.489189622,21.080299,2.02,2.42573813727222
+ID-404,1643205.0,C[N+](CCCCCCCCCCCC)([O-])C,Dodecyldimethylamine oxide,Acute II,Highly & moderately toxic,2.23,-6.18,229.41,1.511,1.269450802,28.406077,2.02,2.01760894604755
+ID-95,92886.0,OC1=CC=C(C2=CC=C(O)C=C2)C=C1,"Biphenyl-4,4'-diol",Acute II,Highly & moderately toxic,2.45,-2.81,186.21,-0.408,2.454293502,22.495187,2.02,1.92902000782762
+ID-85,91576.0,CC1=CC=C2C=CC=CC2=C1,2-Methylnaphthalene,Acute II,Highly & moderately toxic,3.83,-3.91,142.2,-0.47,2.57975906,19.105477,2.01,2.26036051633206
+ID-134,98511.0,CC1=CC=C(C(C)(C)C)C=C1,4-tert-Butyltoluene,Acute II,Highly & moderately toxic,4.44,-4.35,148.25,0.457,1.944690225,19.709182,2.0,2.11384716598424
+ID-104,95476.0,CC1=CC=CC=C1C,o-Xylene,Acute II,Highly & moderately toxic,3.16,-2.71,106.17,0.401,2.016246615,14.177895,1.99,1.48002664740056
+ID-491,27176870.0,O=S(C1=CC=CC=C1CCCCCCCCCCCC)(O)=O,Dodecylbenzenesulfonic acid,Acute II,Highly & moderately toxic,3.53,-5.78,326.49,-0.623,3.009623947,37.005088,1.98,3.14915187124509
+ID-339,542756.0,ClC/C=C/Cl,"1,3-Dichloropropene",Acute II,Highly & moderately toxic,2.07,-1.68,110.97,-0.452,2.957801655,9.99637,1.97,1.25573073453797
+ID-118,95829.0,NC1=CC(Cl)=CC=C1Cl,"2,5-Dichloroaniline",Acute II,Highly & moderately toxic,2.72,-2.43,162.02,-0.454,2.588915541,15.986198,1.95,1.87590656474825
+ID-319,374254.0,C=CC(F)(Cl)C(F)(Br)F,"1-Butene, 4-bromo-3-chloro-3,4,4-trifluoro-",Acute II,Highly & moderately toxic,2.77,-2.45,223.42,-1.109,3.726283982,13.218159,1.95,1.66601290606312
+ID-155,100436.0,C=CC1=CC=NC=C1,4-Vinylpyridine,Acute II,Highly & moderately toxic,1.38,-0.43,105.14,-0.403,2.863613032,13.226624,1.94,1.12148062460152
+ID-305,148243.0,OC1=C2N=CC=CC2=CC=C1,8-Hydroxyquinoline,Acute II,Highly & moderately toxic,1.91,-1.54,145.16,-0.754,2.862463795,17.17747,1.93,1.26196219240388
+ID-462,13048334.0,COC(C=C)=O,Hexamethylene diacrylate,Acute II,Highly & moderately toxic,0.67,-0.13,226.27,-0.361,2.931985366,24.504013,1.93,1.07814927562058
+ID-190,106490.0,NC1=CC=C(C)C=C1,p-Toluidine,Acute II,Highly & moderately toxic,1.34,-0.93,107.15,0.426,1.724062507,13.788436,1.92,1.28644626141681
+ID-131,98044.0,C[N+](C)(C1=CC=CC=C1)C,Phenyl trimethyl ammonium iodide,Acute II,Highly & moderately toxic,-2.42,-4.64,263.12,-1.46,3.239005589,21.897829,1.9,1.90164004407436
+ID-166,101779.0,NC1=CC=C(CC2=CC=C(C=C2)N)C=C1,"4,4'-Methylenedianiline",Acute II,Highly & moderately toxic,2.04,-3.51,198.27,0.394,1.759673262,25.172066,1.9,1.5593077256033
+ID-475,19715196.0,OC1=C(C(C)(C)C)C=C(C(C)(C)C)C=C1C(O)=O,"3,5-Di-tert-butylsalicylic acid",Acute II,Highly & moderately toxic,4.67,-3.38,250.34,-0.296,2.493015546,28.718904,1.89,2.42118336364637
+ID-246,113484.0,O=C(N1CC(CC)CCCC)C2C(C3)C=CC3C2C1=O,"4-(2-Ethylhexan-1-yl)-4-azatricyclo[5.2.1.0(2,6)]dec-8-ene-3,5-dione",Acute II,Highly & moderately toxic,3.78,-3.49,275.39,0.158,2.386704912,31.769119,1.88,1.83257189378388
+ID-444,5394183.0,O=C(N1CCCCBr)C2=CC=CC=C2C1=O,N-(4-Bromobutyl)phthalimide,Acute II,Highly & moderately toxic,1.89,-2.9,282.14,-1.454,3.827057344,26.116688,1.87,2.32030271268678
+ID-259,120832.0,OC1=CC=C(Cl)C=C1Cl,"2,4-Dichlorophenol",Acute II,Highly & moderately toxic,3.14,-1.82,163.0,-0.749,2.988725463,15.233862,1.87,1.48375503071444
+ID-438,4170303.0,C/C=C/C=O,Crotonaldehyde,Acute I,Highly & moderately toxic,0.88,-0.02,70.09,-0.318,2.782799857,8.338432,1.85,1.04623991886699
+ID-255,119346.0,OC1=CC=C(N)C=C1[N+]([O-])=O,4-Amino-2-nitrophenol,Acute II,Highly & moderately toxic,1.18,-1.61,154.13,-1.122,3.213237033,15.035101,1.85,1.25072077452786
+ID-368,683103.0,CCCCCCCCCCCC[N+](C)(CC([O-])=O)C,"1-Dodecanaminium, N-(carboxymethyl)-N,N-dimethyl-, inner salt ",Acute II,Highly & moderately toxic,1.17,-6.91,271.44,0.137,2.124077136,32.104399,1.84,1.85980395452392
+ID-485,25155231.0,O=P(OC1=CC=C(C)C=C1C)(OC2=CC=C(C)C=C2C)OC3=CC=C(C)C=C3C,Trixylyl phosphate,Acute II,Highly & moderately toxic,5.44,-6.21,410.45,-0.89,2.902732321,51.113889,1.84,2.48701678398001
+ID-39,79947.0,CC(C1=CC(Br)=C(O)C(Br)=C1)(C2=CC(Br)=C(O)C(Br)=C2)C,"2,2',6,6'-tetrabromo-4,4'-isopropylidenediphenol",Acute II,Highly & moderately toxic,6.57,-6.12,543.87,-0.733,2.932370232,40.331585,1.84,1.8381803381742
+ID-397,1321740.0,C=CC1=CC=CC=C1C=C,Divinylbenzene,Acute II,Highly & moderately toxic,3.58,-3.66,130.19,-0.058,2.361865097,17.669858,1.84,1.91846594320257
+ID-399,1335462.0,O=C(/C=C/C1C(C)=CCCC1(C)C)CC,Methylionone,Acute II,Highly & moderately toxic,4.57,-3.85,206.33,0.621,1.867367191,25.410707,1.82,2.14827111338849
+ID-421,2465272.0,CN(C)C1=CC=C(NCC2=CC=C(C=C2)N(C)C)C=C1,"4,4'-(Iminomethylene)bis(N,N-dimethylaniline) monohydrochloride",Acute II,Highly & moderately toxic,3.93,-3.06,303.83,-0.517,2.488743354,36.455252,1.82,2.43259955768531
+ID-107,95512.0,NC1=CC=CC=C1Cl,o-Chloroaniline,Acute II,Highly & moderately toxic,1.93,-1.4,127.57,-0.047,2.17875909,13.83391,1.81,1.62922222091924
+ID-121,96093.0,C1(C2=CC=CC=C2)CO1,Styrene oxide,Acute II,Highly & moderately toxic,1.72,-1.98,120.15,0.015,2.409773198,14.376861,1.8,1.40766868355177
+ID-203,108703.0,ClC1=CC(Cl)=CC(Cl)=C1,"1,3,5-Trichlorobenzene",Acute II,Highly & moderately toxic,4.08,-3.77,181.45,-1.003,3.436888127,16.611867,1.8,1.97895174544489
+ID-351,581420.0,CC1=CC2=CC=C(C)C=C2C=C1,"2,6-Dimethylnaphthalene",Acute II,Highly & moderately toxic,4.37,-4.52,156.23,-0.401,2.478286022,21.096213,1.8,2.4295844338164
+ID-463,13481259.0,N#CC1=NC=CN=C1C#N,"2,3-Pyrazinedicarbonitrile",Acute II,Highly & moderately toxic,0.0,-1.66,130.11,-2.351,5.208237447,13.612769,1.79,1.63545497160093
+ID-408,1879090.0,OC1=C(C)C=C(C)C=C1C(C)(C)C,"2-(1,1-Dimethylethyl)-4,6-dimethylphenol",Acute II,Highly & moderately toxic,4.06,-3.2,178.27,0.364,1.886068924,22.283372,1.79,1.89428071979099
+ID-416,2409554.0,CC1=CC=C(O)C(C(C)(C)C)=C1,2-tert-Butyl-p-cresol,Acute II,Highly & moderately toxic,3.72,-2.77,164.25,0.254,1.995194023,20.404023,1.78,1.67969391859825
+ID-288,132274.0,[O-]C1=CC=CC=C1C2=CC=CC=C2,"[1,1'-Biphenyl]-2-ol, sodium salt",Acute II,Highly & moderately toxic,3.45,-3.03,192.19,-0.7,2.500809249,21.230065,1.78,2.21027532435568
+ID-187,106467.0,ClC1=CC=C(Cl)C=C1,p-Dichlorobenzene,Acute II,Highly & moderately toxic,3.46,-3.03,147.0,-0.679,3.019576493,14.482698,1.77,1.74598533182053
+ID-338,541731.0,ClC1=CC(Cl)=CC=C1,m-Dichlorobenzene,Acute II,Highly & moderately toxic,3.45,-3.06,147.0,-0.657,3.041890994,14.459831,1.77,1.74155195532753
+ID-465,13911654.0,O=[As](OC)(O)OC1=CC=CC=C1,Methylphenylarsenic acid,Acute II,Highly & moderately toxic,0.25,-1.16,232.07,-1.279,3.494485309,17.358739,1.76,1.5948348747795
+ID-50,84742.0,O=C(OCCCC)C1=CC=CC=C1C(OCCCC)=O,Dibutyl phthalate,Acute II,Highly & moderately toxic,4.53,-4.67,278.35,-0.94,3.405368348,30.809815,1.76,2.3801574557939
+ID-335,528290.0,O=[N+](C1=CC=CC=C1[N+]([O-])=O)[O-],o-Dinitrobenzene,Acute II,Highly & moderately toxic,1.64,-3.16,168.11,-2.189,4.929566266,14.863359,1.75,1.57442157827594
+ID-506,52829079.0,O=C(OC1CC(C)(C)NC(C)(C)C1)CCCCCCCCC(OC2CC(C)(C)NC(C)(C)C2)=O,"Bis(2,2,6,6-tetramethyl-4-piperidyl) sebacate",Acute II,Highly & moderately toxic,5.13,-5.6,480.73,0.994,1.43008425,55.115925,1.75,1.78320506174725
+ID-300,143077.0,CCCCCCCCCCCC(O)=O,Lauric acid,Acute II,Highly & moderately toxic,5.13,-4.3,200.32,0.977,2.068969482,23.632625,1.75,2.35591303809215
+ID-425,3006824.0,CCCCC(CC)C(OOC(C)(C)C)=O,tert-Butyl 2-ethylperoxyhexanoate,Acute II,Highly & moderately toxic,4.81,-3.55,216.32,0.248,2.310523898,24.398973,1.74,1.95589037879385
+ID-321,402313.0,FC(C1=CC(C(F)(F)F)=CC=C1)(F)F," Benzene, 1,3-bis(trifluoromethyl)-",Acute II,Highly & moderately toxic,3.7,-3.35,214.11,-1.367,3.996851456,14.396104,1.74,2.01164942360528
+ID-64,88608.0,CC1=CC(O)=C(C(C)(C)C)C=C1,6-tert-Butyl-m-cresol,Acute II,Highly & moderately toxic,3.71,-2.76,164.25,0.296,1.994104911,20.414823,1.74,1.67740813177396
+ID-200,108452.0,NC1=CC=CC(N)=C1,m-Phenylenediamine,Acute II,Highly & moderately toxic,0.01,-0.18,108.14,0.712,1.536113714,13.180027,1.73,1.02392905810636
+ID-456,6864375.0,NC1C(C)CC(CC2CC(C)C(N)CC2)CC1,"2,2'-Dimethyl-4,4'-methylenebis(cyclohexylamine)",Acute II,Highly & moderately toxic,3.43,-4.36,238.42,3.459,0.658276691,29.385492,1.72,1.65392558534333
+ID-10,60344.0,NNC,Methylhydrazine,Acute I,Highly & moderately toxic,-1.31,1.2,46.07,2.66,0.811253376,4.962535,1.69,1.06268742322369
+ID-143,99718.0,OC1=CC=C(C(C)CC)C=C1,p-sec-Butylphenol ,Acute II,Highly & moderately toxic,3.35,-2.53,150.22,0.141,2.12519534,18.529699,1.69,1.56035974222234
+ID-257,119937.0,NC1=C(C)C=C(C=C1)C2=CC(C)=C(N)C=C2,o-Tolidine,Acute II,Highly & moderately toxic,2.44,-3.46,212.29,0.27,1.781920705,27.674694,1.67,1.66454029801807
+ID-133,98088.0,FC(F)(F)C1=CC=CC=C1,Benzotrifluoride,Acute II,Highly & moderately toxic,2.91,-1.85,146.11,-0.704,3.193801148,12.380928,1.67,1.29121262473348
+ID-73,90028.0,O=CC1=CC=CC=C1O,2-Hydroxybenzaldehyde,Acute II,Highly & moderately toxic,1.22,-1.07,122.12,-0.702,2.997000446,13.285706,1.67,1.05526655819734
+ID-04,57147.0,NN(C)C,"N,N-Dimethylhydrazine",Acute II,Highly & moderately toxic,-1.05,1.21,60.1,2.574,0.80024514,6.849789,1.67,1.10691414516373
+ID-365,634935.0,NC1=C(Cl)C=C(Cl)C=C1Cl,"2,4,6-Trichloroaniline",Acute II,Highly & moderately toxic,3.46,-3.22,196.46,-0.795,2.901152749,18.095694,1.66,1.8938673518101
+ID-137,98839.0,C=C(C1=CC=CC=C1)C,2-Phenylpropene,Acute II,Highly & moderately toxic,3.31,-2.51,118.18,0.197,2.248224296,15.820715,1.66,1.49897324188764
+ID-370,693549.0,CC(CCCCCCCC)=O,2-Decanone,Acute II,Highly & moderately toxic,3.63,-3.61,156.27,0.958,1.887070601,19.352402,1.65,1.69846319354533
+ID-334,526738.0,CC1=C(C)C(C)=CC=C1,"1,2,3-Trimethylbenzene",Acute II,Highly & moderately toxic,3.63,-3.18,120.19,0.516,1.924585578,16.058497,1.65,1.6794374837501
+ID-504,51218496.0,O=C(N(CCOCCC)C1=C(CC)C=CC=C1CC)CCl,"2-Chloro-2',6'-diethyl-N-(2-propoxyethyl)acetanilide",Acute II,Highly & moderately toxic,4.3,-4.31,311.85,-0.187,2.506025942,34.69007,1.65,2.16360041215208
+ID-511,85068297.0,NCC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1,"3,5-Bis(trifluoromethyl)benzylamine",Acute II,Highly & moderately toxic,2.83,-2.99,243.15,-1.219,3.62854824,17.480016,1.65,1.81798833777897
+ID-92,92693.0,OC1=CC=C(C2=CC=CC=C2)C=C1,p-Phenylphenol,Acute II,Highly & moderately toxic,3.24,-2.78,170.21,-0.141,2.34925306,21.326956,1.64,1.88702614724286
+ID-28,76131.0,FC(F)(Cl)C(Cl)(Cl)F,"1,1,2-Trichloro-1,2,2-trifluoroethane",Acute II,Highly & moderately toxic,3.03,-2.98,187.38,-1.357,4.186796537,10.521174,1.64,1.92328899110586
+ID-177,103902.0,CC(NC1=CC=C(O)C=C1)=O,N-(4-Hydroxyphenyl) acetamide,Acute II,Highly & moderately toxic,0.51,-1.56,151.16,-0.409,2.585140402,16.764483,1.64,1.28538619383238
+ID-369,688846.0,CC(C(OCC(CC)CCCC)=O)=C,2-Ethylhexyl methacrylate,Acute II,Highly & moderately toxic,4.57,-4.05,198.3,0.24,2.421671176,23.519546,1.64,1.93927486287572
+ID-49,84695.0,O=C(OCC(C)C)C1=CC=CC=C1C(OCC(C)C)=O,Diisobutyl phthalate,Acute II,Highly & moderately toxic,3.98,-4.16,278.35,-0.883,3.358179661,30.661281,1.62,2.22107367776371
+ID-414,2243621.0,NC1=C2C=CC=C(N)C2=CC=C1,"1,5-Naphthalenediamine",Acute II,Highly & moderately toxic,1.49,-2.01,158.2,-0.198,2.093435028,20.181879,1.62,1.80472290956602
+ID-311,298066.0,SP(OCC)(OCC)=S,"O,O-Diethyl S-hydrogen phosphorodithioate",Acute II,Highly & moderately toxic,2.59,-2.52,186.22,-0.726,2.828898105,20.209861,1.62,1.59165686890633
+ID-183,106412.0,OC1=CC=C(Br)C=C1,4-Bromophenol,Acute II,Highly & moderately toxic,2.5,-1.58,173.01,-0.371,2.601038609,14.322233,1.62,1.64433309782961
+ID-69,89634.0,NC1=CC=C(Cl)C=C1[N+]([O-])=O,4-Chloro-2-nitroaniline,Acute II,Highly & moderately toxic,2.06,-2.64,172.57,-1.367,3.579863395,16.273157,1.61,1.55731742492218
+ID-478,20766363.0,CC(/C=C/C1=CC=CC(Cl)=C1)=O,"3-Buten-2-one, 4-(3-chlorophenyl)-",Acute II,Highly & moderately toxic,2.85,-3.49,180.63,-0.657,3.004897979,19.969565,1.61,1.72553013004624
+ID-117,95818.0,NC1=CC(C)=CC=C1Cl,2-Chloro-5-methylaniline,Acute II,Highly & moderately toxic,2.33,-1.96,141.6,0.049,2.103278927,15.741383,1.6,1.51600823623497
+ID-223,110838.0,C1=CCCCC1,Cyclohexene,Acute II,Highly & moderately toxic,2.77,-2.89,82.15,1.335,1.534950582,11.062008,1.59,1.4803250151716
+ID-127,96968.0,NC1=CC=C(OC)C=C1[N+]([O-])=O,2-Nitro-p-anisidine,Acute II,Highly & moderately toxic,1.61,-2.03,168.15,-1.116,3.160707291,17.02349,1.58,1.30686172290672
+ID-67,88857.0,OC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1C(C)CC,"Phenol, 2-(1-methylpropyl)-4,6-dinitro-",Acute I,Highly & moderately toxic,3.37,-3.1,240.22,-1.739,4.271482365,23.103198,2.78,2.10598806727078
+ID-136,98817.0,C=C(Br)C1=CC=CC=C1,alpha-Bromostyrene,Acute I,Highly & moderately toxic,3.36,-3.05,183.05,-0.294,2.679094697,17.180787,2.74,2.10256689693332
+ID-507,57500002.0,CSSCC1=CC=CO1,Furfuryl methyl disulfide,Acute I,Highly & moderately toxic,1.94,-2.87,160.25,-0.901,2.969045712,17.708335,2.71,1.4218392982393
+ID-361,620939.0,CC1=CC=C(NC2=CC=C(C)C=C2)C=C1,Di-p-tolylamine,Acute I,Highly & moderately toxic,4.02,-3.66,197.28,0.096,1.915146269,26.431994,2.69,1.98524150303071
+ID-102,95329.0,N1(SSC2=NC3=CC=CC=C3S2)CCOCC1," 4-(1,3-benzothiazol-2-yldisulfanyl)morpholine",Acute I,Highly & moderately toxic,2.54,-3.18,284.41,-1.01,3.033308917,32.119889,2.69,2.2174372329709
+ID-48,84151.0,C1(C2=CC=CC=C2C3=CC=CC=C3)=CC=CC=C1,o-Terphenyl,Acute I,Highly & moderately toxic,5.87,-6.28,230.31,-0.08,2.363950756,30.209411,2.65,2.66652647853486
+ID-243,112414.0,C=CCCCCCCCCCC,Dodec-1-ene,Acute I,Highly & moderately toxic,6.53,-5.65,168.32,1.156,1.760204367,22.597469,2.65,3.08876894424132
+ID-382,827521.0,C1(C2CCCCC2)=CC=CC=C1,Cyclohexylbenzene,Acute I,Highly & moderately toxic,4.71,-5.2,160.26,0.399,2.043902328,20.944158,2.64,2.37940861136534
+ID-314,348549.0,NC1=CC=CC=C1F,o-Fluoroaniline,Acute I,Highly & moderately toxic,1.26,-0.94,111.12,0.007,2.15350567,11.925916,2.63,1.54381520250667
+ID-252,118694.0,CC1=C(Cl)C=CC=C1Cl,"2,6-Dichlorotoluene",Acute I,Highly & moderately toxic,3.96,-3.6,161.03,-0.545,2.917226661,16.33038,2.63,2.07644673628373
+ID-357,611198.0,ClC1=CC=CC=C1CCl,2-Chlorobenzyl chloride,Acute I,Highly & moderately toxic,3.16,-3.51,161.03,-0.656,3.01085847,16.265666,2.63,1.7834533503293
+ID-289,132650.0,C12=CC=CC=C1C3=CC=CC=C3S2,Dibenzothiophene,Acute I,Highly & moderately toxic,4.38,-4.04,184.26,-0.712,2.705010021,23.175313,2.62,2.33877598049636
+ID-188,106478.0,NC1=CC=C(Cl)C=C1,p-Chloroaniline,Acute I,Highly & moderately toxic,1.95,-1.37,127.57,-0.072,2.186613056,13.928181,2.61,1.65570973850491
+ID-170,101962.0,CCC(NC1=CC=C(NC(C)CC)C=C1)C,"1,4-Benzenediamine, N,N'-bis(1-methylpropyl)-",Acute I,Highly & moderately toxic,4.64,-3.26,220.36,0.45,1.55260698,28.624011,2.61,2.36396760742658
+ID-57,87616.0,ClC1=C(Cl)C(Cl)=CC=C1,"1,2,3-Trichlorobenzene",Acute I,Highly & moderately toxic,4.07,-3.77,181.45,-0.922,3.29928754,16.449645,2.6,1.99266218017478
+ID-90,92068.0,C1(C2=CC=CC(C3=CC=CC=C3)=C2)=CC=CC=C1,m-Terphenyl,Acute I,Highly & moderately toxic,5.7,-6.27,230.31,-0.268,2.5095394,30.754774,2.55,2.84745198331781
+ID-269,123308.0,OC1=CC=C(N)C=C1,4-Aminophenol,Acute I,Highly & moderately toxic,0.47,0.04,109.13,0.031,2.03011657,12.614163,2.53,1.51953813300453
+ID-103,95330.0,C1(SNC2CCCCC2)=NC3=CC=CC=C3S1,N-Cyclohexyl-2-benzothiazolylsulfenamide,Acute I,Highly & moderately toxic,3.98,-4.29,264.4,-0.823,2.823086058,31.33694,2.53,2.82848733441968
+ID-490,26087478.0,CC(OP(OC(C)C)(SCC1=CC=CC=C1)=O)C,Iprobenfos,Acute I,Highly & moderately toxic,2.76,-2.97,288.34,-0.55,2.626825622,33.722365,2.53,2.15802887228051
+ID-245,112709.0,CCCCCCCCCCCCCO,Tridecan-1-ol,Acute I,Highly & moderately toxic,5.71,-5.26,200.36,2.847,1.103580705,25.261777,2.52,2.3092801630406
+ID-191,106503.0,NC1=CC=C(N)C=C1,p-Phenylenediamine,Acute I,Highly & moderately toxic,-0.01,-0.15,108.14,0.372,1.584842187,13.434424,2.52,1.68403486093755
+ID-318,372190.0,NC1=CC=CC(F)=C1,m-Fluoroaniline,Acute I,Highly & moderately toxic,1.21,-0.77,111.12,0.087,2.107112761,11.895057,2.51,1.47457251689819
+ID-46,82688.0,O=[N+](C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl)[O-],Pentachloronitrobenzene,Acute I,Highly & moderately toxic,4.73,-5.81,295.34,-2.1,4.715270244,23.306556,2.5,3.37706135087915
+ID-222,110816.0,CCSSCC,Diethyl disulfide,Acute I,Highly & moderately toxic,2.44,-2.19,122.24,-0.75,2.813559458,14.514936,2.5,1.50638594221907
+ID-128,97007.0,O=[N+](C1=CC=C(Cl)C([N+]([O-])=O)=C1)[O-],"1-Chloro-2,4-dinitrobenzene",Acute I,Highly & moderately toxic,2.29,-3.74,202.55,-2.309,5.114668968,17.062459,2.49,2.22974158014107
+ID-271,123353.0,C=CC(CCC=C(C)C)=C,"7-Methyl-3-methyleneocta-1,6-diene",Acute I,Highly & moderately toxic,4.32,-3.25,136.24,0.498,1.957020066,18.598371,2.48,1.8671526474169
+ID-206,108872.0,CC1CCCCC1,Methylcyclohexane,Acute I,Highly & moderately toxic,3.9,-3.88,98.19,3.948,0.746849302,13.096614,2.47,2.49560376258296
+ID-153,100254.0,O=[N+](C1=CC=C([N+]([O-])=O)C=C1)[O-],p-Dinitrobenzene,Acute I,Highly & moderately toxic,1.7,-2.98,168.11,-2.421,5.334365351,14.999796,2.47,1.94404713508816
+ID-11,62533.0,NC1=CC=CC=C1,Aniline,Acute I,Highly & moderately toxic,0.89,-0.71,93.13,0.334,1.876688353,11.80954,2.46,1.30044877646376
+ID-164,101144.0,NC1=CC=C(CC2=CC=C(C(Cl)=C2)N)C=C1Cl,"4,4'-Methylenebis(2-chloroaniline)",Acute I,Highly & moderately toxic,3.72,-4.77,267.16,-0.09,2.174971689,29.306051,2.46,2.05151782710518
+ID-84,91532.0,CC1=CC(C)(C)NC2=C1C=C(OCC)C=C2,"6-Ethoxy-1,2-dihydro-2,2,4-trimethylquinoline",Acute I,Highly & moderately toxic,4.01,-2.94,217.31,-0.078,2.005539412,27.263699,2.46,1.95887824109984
+ID-112,95705.0,CC1=CC(N)=CC=C1N,"2,5-Diaminotoluene",Acute I,Highly & moderately toxic,0.3,-0.49,122.17,0.346,1.684597575,15.234049,2.42,1.57437674947066
+ID-199,108429.0,NC1=CC=CC(Cl)=C1,m-Chloroaniline,Acute I,Highly & moderately toxic,1.93,-1.42,127.57,-0.064,2.225973745,13.907193,2.42,1.62422960841174
+ID-174,103504.0,C1(COCC2=CC=CC=C2)=CC=CC=C1,Dibenzyl ether,Acute I,Highly & moderately toxic,3.42,-4.48,198.26,0.229,2.190929799,24.63033,2.41,1.90962563310172
+ID-496,30171803.0,CC1=CC=C(C(Br)=C1Br)OCC2CO2,Dibromocresyl glycidyl ether,Acute II,Highly & moderately toxic,3.84,-4.66,322.0,-0.43,2.60694514,25.368968,2.39,2.59217856900865
+ID-353,591275.0,OC1=CC=CC(N)=C1,3-Aminophenol,Acute I,Highly & moderately toxic,0.43,-0.05,109.13,0.343,1.868381369,12.501498,2.39,1.41010285648257
+ID-376,764421.0,N#C/C=C/C#N,"2-Butenedinitrile, (E)-",Acute I,Highly & moderately toxic,-0.4,-1.18,78.07,-1.714,4.493892146,8.787782,2.37,1.94903826956974
+ID-306,149304.0,SC1=NC2=CC=CC=C2S1,2-Mercaptobenzothiazole,Acute I,Highly & moderately toxic,2.37,-2.94,167.24,-1.24,3.256641114,19.875296,2.37,1.53799136282916
+ID-77,90131.0,ClC1=C2C=CC=CC2=CC=C1,1-Chloronaphthalene,Acute I,Highly & moderately toxic,3.95,-4.17,162.62,-0.863,3.011711436,19.158039,2.35,2.0420696632846
+ID-472,16691433.0,SC1=NC(N)=NN1,"3-Amino-5-mercapto-1H-1,2,4-triazole",Acute I,Highly & moderately toxic,-0.29,-1.09,116.14,-1.195,3.272317258,10.858355,2.34,1.40434634971523
+ID-477,20103097.0,NC1=CC(Cl)=C(N)C=C1Cl,"2,5-Dichloro-1,4-benzenediamine",Acute I,Highly & moderately toxic,1.91,-2.13,177.03,-0.51,2.462148084,17.643608,2.32,1.72974635230555
+ID-167,101804.0,NC1=CC=C(OC2=CC=C(N)C=C2)C=C1,"4,4'-Diaminodiphenyl ether",Acute I,Highly & moderately toxic,1.87,-2.45,200.24,0.109,1.921463898,24.5694,2.31,1.36961642224112
+ID-512,85785202.0,O=C(SCC1=CC=CC=C1)N(C(C)C(C)C)CC,"S-Benzyl N-(1,2-dimethylpropyl)-N-ethylthiocarbamate",Acute I,Highly & moderately toxic,3.81,-4.5,265.41,-0.398,2.535440737,31.537902,3.25,2.55893412201505
+ID-27,76062.0,O=[N+](C(Cl)(Cl)Cl)[O-],Trichloronitromethane,Acute I,Highly & moderately toxic,2.1,-3.1,164.38,-1.607,4.36322753,10.892738,3.17,1.8085340201596
+ID-398,1330785.0,O=P(OC1=CC=C(C)C=C1)(OC2=CC=C(C)C=C2)OC3=CC=C(C)C=C3,Tricresyl phosphate,Acute I,Highly & moderately toxic,4.87,-5.45,368.37,-0.939,2.99262384,45.617498,3.17,3.24735087750024
+ID-378,793248.0,CC(C)CC(NC1=CC=C(NC2=CC=CC=C2)C=C1)C,"N-1,3-Dimethylbutyl-N'-phenyl-p-phenylenediamine",Acute I,Highly & moderately toxic,5.41,-4.66,268.4,0.214,1.792472354,35.286754,3.07,2.67064950538502
+ID-495,29253369.0,CC(C1=C2C=CC=CC2=CC=C1)C,Isopropylnaphthalene,Acute I,Highly & moderately toxic,4.86,-5.13,170.25,-0.43,2.527029793,22.723495,3.06,2.55231092784247
+ID-389,920376.0,C=C(Cl)C#N,"2-Propenenitrile, 2-chloro-",Acute I,Highly & moderately toxic,1.04,-0.76,87.51,-1.003,3.584172422,8.315483,3.05,1.39244008650798
+ID-377,782741.0,ClC1=CC=CC=C1NNC2=CC=CC=C2Cl,"1,2-Bis(2-chlorophenyl)hydrazine",Acute I,Highly & moderately toxic,4.16,-4.09,253.13,-0.534,2.62639415,27.236918,3.04,2.61256049797596
+ID-430,3380345.0,ClC1=C(C=CC(Cl)=C1)OC2=C(O)C=C(Cl)C=C2,Triclosan,Acute I,Highly & moderately toxic,5.53,-4.68,289.55,-0.713,2.89222039,28.31699,3.03,3.50351155422125
+ID-432,3648213.0,O=C(OCCCCCCC)C1=CC=CC=C1C(OCCCCCCC)=O,Diheptyl phthalate,Acute I,Highly & moderately toxic,7.26,-6.42,362.51,-0.782,3.238886753,41.84063,2.99,3.01460937705621
+ID-237,111820.0,CCCCCCCCCCCC(OC)=O,Methyl dodecanoate,Acute I,Highly & moderately toxic,5.51,-5.25,214.35,1.126,1.958195806,25.536185,2.97,2.73373851710747
+ID-326,479276.0,NC1=C2C(N)=CC=CC2=CC=C1,"1,8-Naphthylenediamine",Acute I,Highly & moderately toxic,1.22,-1.98,158.2,-0.24,2.171982463,20.040464,2.97,1.79132072342069
+ID-501,41451289.0,O=C(OCCCCC(C)C)C1=CC=CC=C1C(OCCCCC(C)C)=O,Diisoheptyl phthalate,Acute I,Highly & moderately toxic,6.15,-6.04,362.51,-0.911,3.408055682,41.760841,2.97,3.10210234211715
+ID-78,90302.0,C1(NC2=CC=CC=C2)=C3C=CC=CC3=CC=C1,1-(N-phenylamino)-naphthalene,Acute I,Highly & moderately toxic,4.57,-4.88,219.29,-0.608,2.574670967,28.956478,2.93,2.67098560067964
+ID-452,6165511.0,CC1=CC=C(C)C=C1C(C2=CC=CC=C2)C,2-(1-Phenylethyl)-p-xylene,Acute I,Highly & moderately toxic,5.79,-6.05,210.32,0.339,1.99984913,27.651411,2.93,3.00007464009062
+ID-445,5405583.0,CC(OCCCCCC)OCCCCCC,"Hexane, 1,1 -[ethylidenebis(oxy)]bis-",Acute I,Highly & moderately toxic,4.74,-5.23,230.39,2.371,1.175317882,27.770215,2.92,2.6052311801238
+ID-18,75081.0,CCS,Ethanethiol,Acute I,Highly & moderately toxic,1.14,-0.77,62.13,-0.21,2.371861858,7.115004,2.91,1.45667410027009
+ID-264,122407.0,O=C/C(CCCCC)=C\C1=CC=CC=C1,Amylcinnamic aldehyde,Acute I,Highly & moderately toxic,3.93,-4.47,202.3,-0.297,2.601608824,25.408955,2.86,2.47126720372988
+ID-238,111853.0,CCCCCCCCCl,1-Chlorooctane,Acute I,Highly & moderately toxic,4.82,-4.83,148.68,0.887,2.101093063,17.396218,2.85,2.36407191920077
+ID-163,101020.0,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,Triphenyl phosphite,Acute I,Highly & moderately toxic,5.03,-5.17,310.29,-1.192,3.323708771,37.579337,2.84,2.83995506697398
+ID-448,5707448.0,CCC1=CC=C(C2=CC=CC=C2)C=C1,"1,1'-Biphenyl, 4-ethyl-",Acute I,Highly & moderately toxic,5.04,-5.18,182.26,-0.077,2.327658778,24.347055,2.83,2.47845042131375
+ID-09,60242.0,SCCO,2-Mercaptoethanol,Acute I,Highly & moderately toxic,0.11,-0.43,78.13,-0.457,2.620409654,7.706645,2.81,1.44226785865199
+ID-234,111659.0,CCCCCCCC,Octane,Acute I,Highly & moderately toxic,4.73,-4.53,114.23,3.887,0.852921184,15.465884,2.8,2.6589907383253
+ID-126,96764.0,OC1=CC=C(C(C)(C)C)C=C1C(C)(C)C,"2,4-Di-tert-butylphenol ",Acute I,Highly & moderately toxic,4.91,-3.82,206.33,0.315,1.951995678,25.886135,2.8,2.29534246728776
+ID-344,556616.0,CN=C=S,Methyl isothiocyanate,Acute I,Highly & moderately toxic,1.07,-1.36,73.11,-0.469,2.60086433,7.848184,2.79,1.59572184004851
+ID-473,18854018.0,S=P(OCC)(OCC)OC1=NOC(C2=CC=CC=C2)=C1,Isoxathion,Acute I,Highly & moderately toxic,4.27,-4.17,313.31,-0.744,2.875288392,35.073531,6.22,3.48744992563249
+ID-254,119120.0,S=P(OCC)(OCC)OC1=NN(C2=CC=CC=C2)C(C=C1)=O,"O,O-Diethyl-O-(3-oxo-2-phenyl-2H-pyridazin-6-yl) phosphorothionate",Acute I,Highly & moderately toxic,3.33,-4.77,340.33,-0.885,2.903668667,37.892714,5.82,3.78594637676983
+ID-401,1484135.0,C=CN1C2=C(C3=C1C=CC=C3)C=CC=C2,9-Vinylcarbazole,Acute I,Highly & moderately toxic,3.92,-3.48,193.25,-0.482,2.459323363,25.673498,5.51,2.48601713051735
+ID-308,193395.0,C12=C3C(C4=C2C=CC=C4)=CC5=CC=CC6=CC=C(C3=C56)C=C1,"Indeno[1,2,3-cd]pyrene",Acute I,Highly & moderately toxic,6.45,-8.34,276.34,-1.453,3.483355408,38.179626,5.33,5.19270123629852
+ID-309,205823.0,C12=CC=CC(C3=C4C=CC5=CC=CC=C35)=C1C4=CC=C2,Benzo[j]fluoranthene,Acute I,Highly & moderately toxic,6.11,-7.75,252.31,-1.363,3.417384136,34.378175,5.04,5.04177530911758
+ID-500,41122707.0,N#CC1=CC=C(C2=CC=C(CCCCCC)C=C2)C=C1,"4'-Hexyl[1,1'-biphenyl]-4-carbonitrile",Acute I,Highly & moderately toxic,6.14,-5.11,263.38,-0.887,3.117955236,34.532049,4.54,3.66393371378688
+ID-29,77474.0,ClC1=C(Cl)C(Cl)=C(Cl)C1(Cl)Cl,Hexachlorocyclopentadiene,Acute I,Highly & moderately toxic,4.85,-5.43,272.77,-2.138,4.679812364,21.247958,4.48,3.54578184311281
+ID-387,882337.0,C1(SSC2=CC=CC=C2)=CC=CC=C1,Phenyl disulfide,Acute I,Highly & moderately toxic,4.51,-4.62,218.33,-1.14,3.195770908,26.914682,4.41,2.71892723584418
+ID-211,108985.0,SC1=CC=CC=C1,Benzenethiol,Acute I,Highly & moderately toxic,2.26,-1.97,110.17,-0.46,2.53950776,13.260953,4.4,1.81551876963929
+ID-03,57090.0,CCCCCCCCCCCCCCCC[N+](C)(C)C,"N,N,N-trimethyl-1-hexadecanaminium bromide",Acute I,Highly & moderately toxic,2.48,-7.79,364.45,-0.331,2.172496031,40.003993,4.36,4.32505039192525
+ID-324,464722.0,OC(C1=CC=CC=C1)(C2=CC=CC=C2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O,"1,1,2,2-Tetraphenylethane-1,2-diol",Acute I,Highly & moderately toxic,4.28,-5.15,366.46,-0.101,2.382618285,44.461757,4.33,2.8181458020022
+ID-165,101202.0,O=C(NC1=CC=C(Cl)C(Cl)=C1)NC2=CC=C(Cl)C=C2,"1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl)urea",Acute I,Highly & moderately toxic,5.1,-5.04,315.59,-0.791,2.963797957,32.256412,4.3,3.57430581239936
+ID-276,124287.0,CN(C)CCCCCCCCCCCCCCCCCC,Dimantine,Acute I,Highly & moderately toxic,8.2,-7.15,297.57,2.968,0.718645633,38.797038,4.27,4.26617967983703
+ID-433,3766812.0,O=C(OC1=CC=CC=C1C(C)CC)NC,2-sec-Butylphenyl N-methylcarbamate,Acute I,Highly & moderately toxic,3.06,-3.15,207.27,-0.197,2.55911461,23.816254,4.17,2.05421479597504
+ID-419,2439012.0,O=C1SC2=NC3=CC=C(C)C=C3N=C2S1,"6-Methyl-1,3-dithiolo[4,5-b]quinoxalin-2-one",Acute I,Highly & moderately toxic,2.57,-2.67,234.29,-1.557,3.805000937,26.512444,4.17,2.50299717818516
+ID-395,1120214.0,CCCCCCCCCCC,n-Undecane,Acute I,Highly & moderately toxic,5.96,-5.65,156.31,3.832,0.840288765,20.976636,4.15,3.66108924357016
+ID-250,117806.0,O=C(C1=C2C=CC=C1)C(Cl)=C(Cl)C2=O,"2,3-Dichloro-1,4-naphthoquinone",Acute I,Highly & moderately toxic,2.96,-3.98,227.05,-2.183,4.800949545,22.123073,4.13,2.90477545075957
+ID-455,6842155.0,CCCCC/C=C/CCCCC,"1-Propene, tetramer",Acute I,Highly & moderately toxic,6.29,-5.64,168.32,1.283,1.573426112,22.602367,4.05,3.43149740253977
+ID-98,93834.0,CCCCCCCC/C=C\CCCCCCCC(N(CCO)CCO)=O,"N,N-Bis(2-hydroxyethyl)oleamide",Acute I,Highly & moderately toxic,6.19,-5.36,369.59,1.216,1.563787504,43.62582,3.87,3.6124843714841
+ID-470,16245797.0,NC1=CC=C(CCCCCCCC)C=C1,4-Octylbenzenamine,Acute I,Highly & moderately toxic,5.19,-5.44,205.34,0.35,1.822439737,26.332529,3.84,2.87402448187587
+ID-160,100630.0,NNC1=CC=CC=C1,"Hydrazine, phenyl-",Acute I,Highly & moderately toxic,0.95,-0.22,108.14,0.069,2.127542008,13.076412,3.83,1.45762873014939
+ID-498,38640629.0,CC(C1=C2C=CC=CC2=CC=C1C(C)C)C,Diisopropylnaphthalene,Acute I,Highly & moderately toxic,5.66,-6.48,212.33,-0.327,2.4069328739999998,28.39351,3.78,2.97341390354191
+ID-283,127902.0,ClC(Cl)(Cl)C(Cl)COCC(Cl)C(Cl)(Cl)Cl,"2,3,3,3,2',3',3',3'-Octachlorodipropyl ether",Acute I,Highly & moderately toxic,5.05,-5.93,377.74,-0.966,3.600255752,28.104189,3.69,3.32252633022545
+ID-453,6362807.0,C=C(C1=CC=CC=C1)CC(C)(C2=CC=CC=C2)C,"2,4-Diphenyl-4-methylpentene-1",Acute I,Highly & moderately toxic,6.13,-5.93,236.36,0.22,2.161092593,30.651058,3.62,2.81418525222369
+ID-285,129000.0,C12=CC=C3C=CC=C4C=CC(C2=C34)=CC=C1,Pyrene,Acute I,Highly & moderately toxic,5.19,-6.94,202.26,-1.101,3.08206188,27.539699,3.62,3.66031788443196
+ID-221,110667.0,CCCCCS,Pentane-1-thiol,Acute I,Highly & moderately toxic,3.02,-2.23,104.21,-0.218,2.377017065,12.64492,3.59,1.95911320081942
+ID-94,92842.0,C12=CC=CC=C1NC3=C(C=CC=C3)S2,Phenothiazine,Acute I,Highly & moderately toxic,4.19,-2.71,199.27,-0.382,2.213638559,24.847775,3.56,2.57527231823117
+ID-341,545062.0,N#CC(Cl)(Cl)Cl,Trichloroacetonitrile,Acute I,Highly & moderately toxic,1.8,-1.85,144.39,-1.259,4.120192455,10.675452,3.52,1.85646341659288
+ID-418,2437254.0,CCCCCCCCCCCC#N,Dodecanenitrile,Acute I,Highly & moderately toxic,5.0,-4.0,181.32,1.215,1.983862374,23.077048,3.49,2.7268455586566
+ID-484,25103586.0,CCCCCCCCCC(C)(S)C,tert-Dodecanethiol,Acute I,Highly & moderately toxic,7.01,-5.31,202.4,-0.092,2.255728384,25.402369,3.43,3.02085969627888
+ID-59,87865.0,OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,Pentachlorophenol,Acute I,Highly & moderately toxic,4.99,-4.32,266.34,-1.51,3.85992775,21.535587,3.38,2.92645875216832
+ID-373,732263.0,OC1=C(C(C)(C)C)C=C(C(C)(C)C)C=C1C(C)(C)C,"2,4,6-Tri-tert-butylphenol",Acute I,Highly & moderately toxic,6.28,-5.2,262.43,0.472,1.790886506,33.225105,3.38,2.93614060710472
+ID-260,120956.0,OC1=CC=C(C(C)(C)CC)C=C1C(C)(C)CC,"2,4-Di-tert-pentylphenol",Acute I,Highly & moderately toxic,5.83,-4.61,234.38,0.333,1.92633745,29.496179,3.29,2.80422675295568
+ID-71,89725.0,OC1=CC=CC=C1C(C)CC,o-sec-Butylphenol,Acute II,Highly & moderately toxic,3.14,-2.35,150.22,0.183,2.114400027,18.469278,1.58,1.49237456697402
+ID-141,99547.0,ClC1=CC=C([N+]([O-])=O)C=C1Cl,"3,4-Dichloronitrobenzene",Acute II,Highly & moderately toxic,3.11,-3.62,192.0,-1.894,4.467574143,16.830836,1.57,1.7448623028076
+ID-469,16219753.0,CC=C1[C@H]2C=C[C@H](C2)C1,"5-Ethylidene-8,9,10-trinorborn-2-ene",Acute II,Highly & moderately toxic,3.54,-2.43,120.19,0.931,1.719446707,15.806793,1.56,1.3011143580539
+ID-72,89838.0,CC1=CC(O)=C(C(C)C)C=C1,Thymol ,Acute II,Highly & moderately toxic,3.16,-2.37,150.22,0.279,2.011278651,18.597254,1.52,1.48914250438512
+ID-129,97392.0,N=C(NC1=CC=CC=C1C)NC2=CC=CC=C2C,"N,N'-Bis(2-methylphenyl)guanidine",Acute II,Highly & moderately toxic,2.9,-3.52,239.32,-0.027,2.168335114,30.277968,1.52,1.75246542461753
+ID-125,96333.0,C=CC(OC)=O,Methyl acrylate,Acute II,Highly & moderately toxic,0.67,-0.13,86.09,-0.279,2.939584495,8.756941,1.52,0.948914410586752
+ID-328,487683.0,O=CC1=C(C)C=C(C)C=C1C,"2,4,6-Trimethylbenzaldehyde",Acute II,Highly & moderately toxic,2.59,-3.07,148.2,-0.381,2.676916776,18.324853,1.52,1.85672130632272
+ID-367,674828.0,C=C1CC(O1)=O,But-3-en-3-olide,Acute II,Highly & moderately toxic,0.3,0.44,84.07,0.254,2.413061255,8.484989,1.51,0.974441395358708
+ID-150,99990.0,CC1=CC=C([N+]([O-])=O)C=C1,p-Nitrotoluene,Acute II,Highly & moderately toxic,2.34,-2.49,137.14,-1.184,3.630774194,14.626035,1.5,1.34091934104854
+ID-411,2219821.0,CC1=CC=CC(C(C)(C)C)=C1O,6-tert-Butyl-o-cresol,Acute II,Highly & moderately toxic,3.7,-2.74,164.25,0.307,1.988311707,20.356183,1.49,1.6742231928548
+ID-315,348618.0,FC1=CC(Br)=CC=C1F,"4-Bromo-1,2-difluorobenzene",Acute II,Highly & moderately toxic,3.04,-2.66,192.99,-0.887,3.234031969,13.748225,1.49,1.55756640439426
+ID-182,105679.0,CC1=CC(C)=CC=C1O,"2,4-Xylenol",Acute II,Highly & moderately toxic,2.37,-1.34,122.17,0.218,2.025807572,14.937443,1.46,1.31705127776697
+ID-436,4067167.0,NCCNCCNCCNCCNCCN,Pentaethylenehexamine,Acute II,Highly & moderately toxic,-1.67,-2.93,232.37,2.42,0.956440499,26.441053,1.46,1.33694687597075
+ID-175,103695.0,CCNC1=CC=CC=C1,N-Ethylaniline,Acute II,Highly & moderately toxic,2.23,-1.31,121.18,0.45,1.734179365,15.696983,1.45,1.23211788027768
+ID-196,107186.0,C=CCO,Allyl alcohol,Acute II,Highly & moderately toxic,-0.03,0.56,58.08,0.735,2.098739812,6.621722,1.44,0.579238643187282
+ID-332,505328.0,C=CC(O)(C)CCCC(C)CCCC(C)CCCC(C)C,"3,7,11,15-Tetramethylhexadec-1-en-3-ol",Acute III,Slightly toxic & relatively nontoxic,7.55,-6.79,296.54,0.927,1.939514608,37.752132,1.43,1.47225668890029
+ID-492,27344418.0,O=S(C1=CC=CC=C1/C=C/C2=CC=C(C3=CC=C(/C=C/C4=CC=CC=C4S(=O)([O-])=O)C=C3)C=C2)([O-])=O,"Disodium 2,2'-([1,1'-biphenyl]-4,4'-diyldivinylene)bis(benzenesulphonate)",Acute III,Slightly toxic & relatively nontoxic,3.98,-7.1,564.58,-0.536,2.077107167,62.460009,1.43,1.42812180781206
+ID-298,141435.0,NCCO,Monoethanolamine,Acute III,Slightly toxic & relatively nontoxic,-1.53,1.14,61.08,2.679,0.955449655,6.179538,-0.2,0.882688729276938
+ID-215,110009.0,O1C=CC=C1,Furan,Acute III,Slightly toxic & relatively nontoxic,1.24,-0.63,68.08,0.445,2.072570338,7.527227,-0.21,0.959641922775708
+ID-80,91156.0,N#CC1=CC=CC=C1C#N,Phthalonitrile,Acute III,Slightly toxic & relatively nontoxic,0.98,-2.23,128.13,-1.543,4.107558639,15.064689,-0.22,0.956960216016295
+ID-180,105168.0,CC(C(OCCN(CC)CC)=O)=C,2-(Diethylamino)ethyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,1.93,-1.05,185.27,0.279,2.04490434,21.15924,-0.29,1.01282019539231
+ID-345,556821.0,CC(C)=CCO,3-Methylbut-2-en-1-ol,Acute III,Slightly toxic & relatively nontoxic,0.92,0.09,86.13,1.206,1.575759313,10.393352,-0.3,0.147841002942819
+ID-156,100516.0,OCC1=CC=CC=C1,Benzyl alcohol,Acute III,Slightly toxic & relatively nontoxic,1.07,-0.61,108.14,0.048,2.3949858,12.862561,-0.33,1.17063731200475
+ID-225,110861.0,C1=NC=CC=C1,Pyridine,Acute III,Slightly toxic & relatively nontoxic,0.7,0.49,79.1,-0.259,2.76097087,9.593596,-0.36,0.892209112411748
+ID-124,96297.0,C/C(CC)=N\O,2-Butanone oxime,Acute III,Slightly toxic & relatively nontoxic,0.86,-0.79,87.12,0.975,1.807458685,9.702993,-0.36,0.263654410844547
+ID-371,693981.0,CC1=NC=CN1,2-Methylimidazole,Acute III,Slightly toxic & relatively nontoxic,0.36,0.86,82.1,0.672,1.853767992,9.325285,-0.39,0.683783762799957
+ID-364,629403.0,N#CCCCCCCC#N,Octanedinitrile,Acute III,Slightly toxic & relatively nontoxic,0.75,-2.03,136.2,1.044,2.2801,15.970839,-0.43,-0.0846093778419531
+ID-201,108656.0,CC(OC(C)COC)=O,2-Methoxy-1-methylethyl acetate,Acute III,Slightly toxic & relatively nontoxic,0.77,-0.57,132.16,1.114,1.787440395,13.395307,-0.45,0.0777857893816209
+ID-233,111444.0,ClCCOCCCl,Bis(2-chloroethyl) ether,Acute III,Slightly toxic & relatively nontoxic,1.23,-1.64,143.01,0.721,2.099603628,12.46998,-0.46,0.449316627336135
+ID-385,868779.0,CC(C(OCCO)=O)=C,2-Hydroxyethyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,0.27,0.13,130.14,0.046,2.61369891,13.142121,-0.47,0.570652183885806
+ID-281,126987.0,CC(C#N)=C,Methacrylonitrile,Acute III,Slightly toxic & relatively nontoxic,0.91,-0.48,67.09,-0.367,2.97746333,8.205265,-0.57,1.01504226812454
+ID-97,93685.0,O=C(C)CC(NC1=CC=CC=C1C)=O,o-Acetoacetotoluidide,Acute III,Slightly toxic & relatively nontoxic,1.34,-2.68,191.23,-0.26,2.622176221,21.462415,-0.69,1.3233788031148
+ID-19,75183.0,CSC,Dimethyl sulphide,Acute III,Slightly toxic & relatively nontoxic,0.59,-0.53,62.13,0.285,1.900829773,7.198886,-0.73,1.2207990002427
+ID-476,19766893.0,CCCCC(CC)C([O-])=O,Sodium 2-ethylhexanoate ,Acute III,Slightly toxic & relatively nontoxic,2.94,-1.89,166.2,1.144,1.223613585,16.073669,-0.74,-0.153210248021599
+ID-158,100550.0,OCC1=CC=CN=C1,3-Hydroxymethylpyridine,Acute III,Slightly toxic & relatively nontoxic,-0.13,0.46,109.13,-0.16,2.586889992,12.124848,-0.8,0.615498119771704
+ID-278,126330.0,O=S1(CCCC1)=O,Sulfolane,Acute III,Slightly toxic & relatively nontoxic,-0.65,-0.36,120.17,1.129,1.917702395,11.593195,-0.85,-0.151312922719555
+ID-204,108805.0,O=C(NC(N1)=O)NC1=O,Isocyanuric acid,Acute III,Slightly toxic & relatively nontoxic,-1.21,-1.23,129.08,-0.388,3.205173451,10.506848,-0.89,-0.0722225790517981
+ID-451,6148750.0,CC1=C(S(=O)([O-])=O)C(C)=CC(C)=C1,Sodium mesitylenesulfonate,Acute III,Slightly toxic & relatively nontoxic,1.32,-2.55,222.23,0.224,2.130589576,20.371162,-1.7,0.761874097255906
+ID-45,80626.0,CC(C(OC)=O)=C,Methyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,1.1,-0.3,100.12,0.009,2.646507626,10.638018,0.08,0.757156038732261
+ID-26,75989.0,CC(C)(C)C(O)=O,Pivalic acid,Acute III,Slightly toxic & relatively nontoxic,1.37,-0.25,102.13,1.064,1.945192308,10.745591,0.07,0.202315684452952
+ID-149,99967.0,O=C(O)C1=CC=C(O)C=C1,4-Hydroxybenzoic acid,Acute III,Slightly toxic & relatively nontoxic,1.58,-1.06,138.12,-0.729,3.083840771,13.984248,-0.01,1.02201229857428
+ID-181,105533.0,O=C(OCC)CC(OCC)=O,Diethyl malonate,Acute III,Slightly toxic & relatively nontoxic,0.93,-0.82,160.17,0.421,2.435099454,15.404326,-0.07,0.5761094383153
+ID-63,88197.0,CC1=CC=CC=C1S(=O)(N)=O,o-Toluenesulfonamide,Acute III,Slightly toxic & relatively nontoxic,0.61,-1.71,171.21,-0.505,2.885837095,17.355193,-0.09,0.905643531270485
+ID-325,470826.0,CC1(C)OC2(C)CCC1CC2,"2-Oxabicyclo[2.2.2]octane, 1,3,3-trimethyl-",Acute III,Slightly toxic & relatively nontoxic,3.36,-3.84,154.25,2.794,0.890146434,18.645077,-0.11,0.68275160788923
+ID-272,123466.0,O=C(N(C)N(C)C)C[N+]([H])([H])([H]),"Ethanaminium, 2-hydrazino-N,N,N-trimethyl-2-oxo-, chloride",Acute III,Slightly toxic & relatively nontoxic,-2.52,0.44,167.64,-0.49,2.613898133,15.837387,-0.14,-0.0345681789036729
+ID-229,111159.0,CC(OCCOCC)=O,2-Ethoxyethyl acetate,Acute III,Slightly toxic & relatively nontoxic,0.72,-0.63,132.16,1.001,1.877817228,13.384501,-0.18,0.139723103953022
+ID-468,15045439.0,CC1(C)CCC(C)(C)O1,"2,2,5,5-Tetramethyltetrahydrofuran",Acute III,Slightly toxic & relatively nontoxic,2.67,-2.2,128.21,2.699,0.960982469,15.495065,-0.19,0.464841563980027
+ID-61,88095.0,CCC(CC)C(O)=O,"Butanoic acid, 2-ethyl-",Acute III,Slightly toxic & relatively nontoxic,1.74,-0.8,116.16,1.083,1.952871339,12.557775,0.21,0.208463279048821
+ID-359,619249.0,N#CC1=CC=CC([N+]([O-])=O)=C1,3-Nitrobenzonitrile,Acute III,Slightly toxic & relatively nontoxic,1.12,-2.78,148.12,-1.847,4.532925906,15.024421,0.21,1.04882039631773
+ID-219,110441.0,C/C=C/C=C/C(O)=O,Sorbic acid,Acute III,Slightly toxic & relatively nontoxic,1.77,-0.81,112.13,-0.462,2.931797794,12.239746,0.21,1.15096099401076
+ID-161,100641.0,ON=C1CCCCC1,Cyclohexanone oxime,Acute III,Slightly toxic & relatively nontoxic,1.52,-1.28,113.16,1.042,1.745779497,12.905586,0.2,0.265429445957616
+ID-17,75070.0,CC=O,Acetaldehyde,Acute III,Slightly toxic & relatively nontoxic,-0.01,0.71,44.05,0.679,2.107004464,4.634364,0.17,0.587494928124381
+ID-313,298124.0,O=CC(O)=O,Glyoxylic acid,Acute III,Slightly toxic & relatively nontoxic,-0.59,0.48,74.04,-1.078,3.592167198,5.54693,0.16,0.732131809420527
+ID-439,4189440.0,NC(N)=S(=O)=O,Thiourea dioxide,Acute III,Slightly toxic & relatively nontoxic,-2.03,0.17,108.11,0.806,1.572125474,8.870976,0.13,0.433481469579936
+ID-214,109897.0,CCNCC,Diethylamine,Acute III,Slightly toxic & relatively nontoxic,0.76,0.54,73.14,3.241,0.657637478,9.345998,0.1,0.285411765064538
+ID-333,515844.0,O=C(OCC)C(Cl)(Cl)Cl,Ethyl trichloroacetate,Acute III,Slightly toxic & relatively nontoxic,2.52,-2.69,191.44,-0.83,3.491682478,15.03637,0.08,1.28415425122153
+ID-53,85449.0,O=C(O1)C2=CC=CC=C2C1=O,Phthalic anhydride,Acute III,Slightly toxic & relatively nontoxic,0.89,-1.47,148.12,-1.681,4.319849775,15.078856,0.32,0.876344487305182
+ID-176,103833.0,CN(C)CC1=CC=CC=C1,"N,N-Dimethylbenzylamine",Acute III,Slightly toxic & relatively nontoxic,1.84,-1.68,135.21,0.345,1.985588421,17.247109,0.29,1.16920204973854
+ID-226,110918.0,N1CCOCC1,Morpholine,Acute III,Slightly toxic & relatively nontoxic,-0.75,0.9,87.12,2.219,1.037310067,9.471767,0.29,0.448139970145462
+ID-139,99047.0,CC1=CC(C(O)=O)=CC=C1,m-Toluic acid,Acute III,Slightly toxic & relatively nontoxic,2.08,-1.73,136.15,-0.677,3.071107158,15.120735,0.26,1.16536938686847
+ID-16,69727.0,OC1=CC=CC=C1C(O)=O,Salicylic acid,Acute III,Slightly toxic & relatively nontoxic,1.96,-1.09,138.12,-0.905,3.275766002,13.842832,0.25,1.05786405688674
+ID-294,139139.0,O=C(O)CN(CC(O)=O)CC(O)=O,Nitrilotriacetic acid,Acute III,Slightly toxic & relatively nontoxic,-0.98,-0.78,191.14,-0.392,3.016967364,15.553989,0.24,0.410408357597473
+ID-37,79141.0,OCC(O)=O,Glycolic acid,Acute III,Slightly toxic & relatively nontoxic,-1.02,0.9,76.05,0.632,2.278226482,5.894428,0.24,0.576013914903829
+ID-489,25675289.0,CC(O)C1=CC=CC(C)=C1,1-(3-Methylphenyl)ethanol,Acute III,Slightly toxic & relatively nontoxic,2.05,-1.34,136.19,0.246,2.178506177,16.603864,0.23,1.20643720837531
+ID-261,121039.0,CC1=CC=C([N+]([O-])=O)C=C1S(=O)(O)=O,4-Nitrotoluene-2-sulphonic acid,Acute III,Slightly toxic & relatively nontoxic,-0.77,-2.69,217.2,-1.623,4.207786386,19.094562,0.22,0.36133254858452
+ID-212,108996.0,CC1=CC=CN=C1,3-Methylpyridine,Acute III,Slightly toxic & relatively nontoxic,1.11,0.33,93.13,-0.145,2.570419091,11.530257,0.44,0.862891524514476
+ID-132,98055.0,O=[As](C1=CC=CC=C1)(O)O,Phenylarsonic acid ,Acute III,Slightly toxic & relatively nontoxic,0.4,-0.86,202.04,-0.54,2.955319242,14.530239,0.44,0.757832183904135
+ID-220,110623.0,CCCCC=O,Valeraldehyde,Acute III,Slightly toxic & relatively nontoxic,1.41,-0.76,86.13,0.713,2.05569076,10.163076,0.43,0.605230770822987
+ID-331,504290.0,NC1=NC=CC=C1,2-Aminopyridine,Acute III,Slightly toxic & relatively nontoxic,0.42,0.42,94.12,0.039,2.177671554,11.083457,0.43,1.31555728673189
+ID-290,134623.0,CC1=CC(C(N(CC)CC)=O)=CC=C1,"N,N-Diethyl-m-toluamide",Acute III,Slightly toxic & relatively nontoxic,2.1,-2.06,191.27,-0.022,2.309302902,23.203754,0.41,1.42780171489289
+ID-15,68111.0,O=C(O)CS,Mercaptoacetic acid,Acute III,Slightly toxic & relatively nontoxic,0.09,-0.61,92.11,-1.049,3.309799021,7.971719,0.41,1.1866982795697
+ID-157,100549.0,N#CC1=CC=CN=C1,3-Cyanopyridine,Acute III,Slightly toxic & relatively nontoxic,0.36,-0.85,104.11,-1.26,3.79444832,11.991844,0.41,0.992220975213686
+ID-42,80091.0,O=S(C1=CC=C(O)C=C1)(C2=CC=C(O)C=C2)=O,Bis(4-hydroxyphenyl)sulfone,Acute III,Slightly toxic & relatively nontoxic,1.89,-2.61,250.27,-0.509,2.833950827,25.643,0.4,1.35650656530799
+ID-479,21087649.0,O=C1C(C(C)(C)C)=NN=C(SC)N1N,Metribuzin,Acute III,Slightly toxic & relatively nontoxic,1.54,-2.2,214.28,-0.962,3.068261809,23.136709,0.39,1.23542962139545
+ID-307,156592.0,Cl/C=C\Cl,"cis-1,2-Dichloroethene",Acute III,Slightly toxic & relatively nontoxic,1.85,-1.18,96.94,-0.246,2.746814335,7.973126,0.38,1.14125758961064
+ID-192,106876.0,C1(O2)C2CC(C3OC3)CC1,"1,2-epoxy-4-(oxiran-2-yl)cyclohexane",Acute III,Slightly toxic & relatively nontoxic,0.85,-1.41,140.18,2.106,1.356989375,15.343973,0.38,0.392321086720608
+ID-394,1118612.0,C/C(N)=C/C#N,"2-Butenenitrile, 3-amino-",Acute III,Slightly toxic & relatively nontoxic,-0.04,-0.55,82.1,0.147,2.174579309,9.637891,0.38,1.22685168433481
+ID-407,1855636.0,N#CC1=CCCCC1,1-Cyclohexene-1-carbonitrile,Acute III,Slightly toxic & relatively nontoxic,1.75,-0.96,107.15,-0.16,2.662310256,13.325882,0.35,1.07454001078388
+ID-231,111182.0,CN(C)CCCCCCN(C)C,"N,N,N',N'-Tetramethylhexamethylenediamine",Acute III,Slightly toxic & relatively nontoxic,2.0,-0.96,172.31,2.946,0.725269191,21.669763,0.34,0.388765140397654
+ID-510,76334366.0,C=C(Br)CCO,3-Bromo-3-buten-1-ol,Acute III,Slightly toxic & relatively nontoxic,1.05,-0.71,151.0,0.432,2.153423532,11.51161,0.34,0.864180092739799
+ID-24,75503.0,CN(C)C,Trimethylamine,Acute III,Slightly toxic & relatively nontoxic,-0.14,1.04,59.11,3.024,0.711488593,7.53892,0.33,0.403285926299795
+ID-291,134963.0,O=CC1=CC(OC)=C(O)C(OC)=C1,"4-Hydroxy-3,5-dimethoxybenzaldehyde",Acute III,Slightly toxic & relatively nontoxic,1.33,-1.69,182.18,-0.651,2.764626046,18.768709,0.64,1.15779910432969
+ID-275,124094.0,NCCCCCCN,"1,6-Hexanediamine",Acute III,Slightly toxic & relatively nontoxic,0.27,-0.7,116.21,3.342,0.728212423,14.097546,0.63,0.493027573727023
+ID-75,90051.0,OC1=CC=CC=C1OC,2-Methoxyphenol,Acute III,Slightly toxic & relatively nontoxic,1.32,-0.27,124.14,0.093,2.093739249,13.787612,0.63,1.45807351492491
+ID-216,110021.0,C1=CC=CS1,Thiophene,Acute III,Slightly toxic & relatively nontoxic,1.89,-1.84,84.14,-0.359,2.545089493,9.856839,0.6,1.63191164766226
+ID-390,924414.0,C=CC(O)CC=C,"1,5-Hexadien-3-ol",Acute III,Slightly toxic & relatively nontoxic,1.24,-1.36,98.14,0.78,1.997143431,11.889286,0.58,0.50048003379672
+ID-34,78875.0,CC(Cl)CCl,"1,2-Dichloropropane",Acute III,Slightly toxic & relatively nontoxic,2.13,-1.73,112.99,-0.082,2.832611273,10.174906,0.58,1.01620510584192
+ID-02,56371.0,CC[N+](CC)(CC1=CC=CC=C1)CC,Benzyltriethylammonium chloride,Acute III,Slightly toxic & relatively nontoxic,0.63,-6.28,227.78,-0.899,2.81734625,26.563194,0.56,0.637188663367621
+ID-88,91769.0,NC1=NC(N)=NC(C2=CC=CC=C2)=N1,"2,4-Diamino-6-phenyl-s-triazine",Acute III,Slightly toxic & relatively nontoxic,1.15,-1.59,187.2,-0.661,2.957100779,21.085535,0.56,0.976567837491055
+ID-381,827430.0,CC1=CNC(C2=CC=CC=C2)=N1,4-Methyl-2-phenyl-1H-imidazole,Acute III,Slightly toxic & relatively nontoxic,2.41,-1.13,158.2,-0.372,2.467640693,19.753223,0.56,1.66176534934804
+ID-241,112243.0,NCCNCCNCCN,Triethylenetetramine,Acute III,Slightly toxic & relatively nontoxic,-1.84,-0.73,146.24,2.517,0.884502702,16.521252,0.53,0.711643869039277
+ID-83,91236.0,COC1=CC=CC=C1[N+]([O-])=O,o-Nitroanisole,Acute III,Slightly toxic & relatively nontoxic,2.02,-2.26,153.14,-1.083,3.380625463,15.365692,0.52,1.27670590161749
+ID-148,99945.0,O=C(O)C1=CC=C(C)C=C1,4-Methylbenzoic acid,Acute III,Slightly toxic & relatively nontoxic,2.12,-1.71,136.15,-0.651,3.062761407,15.151251,0.51,1.17552943653129
+ID-273,124049.0,O=C(O)CCCCC(O)=O,Adipic acid,Acute III,Slightly toxic & relatively nontoxic,0.13,-0.66,146.14,0.75,2.262674332,13.41412,0.5,0.331793159884526
+ID-447,5536618.0,CC(C([O-])=O)=C,Sodium methacrylate,Acute III,Slightly toxic & relatively nontoxic,0.43,-0.07,108.07,0.855,1.872487659,8.543318,0.5,0.402035997652725
+ID-391,947046.0,O=C1CCCCCCCCCCCN1,Dodecane-12-lactam,Acute III,Slightly toxic & relatively nontoxic,3.41,-3.29,197.32,2.328,1.073270617,23.84717,0.48,0.745204365616269
+ID-262,121448.0,CCN(CC)CC,Triethylamine,Acute III,Slightly toxic & relatively nontoxic,1.57,0.13,101.19,2.989,0.68246836,13.051581,0.47,0.393716528563784
+ID-32,78706.0,C=CC(O)(C)CCC=C(C)C,"1,6-Octadiene-3-ol, 3,7-dimethyl-",Acute III,Slightly toxic & relatively nontoxic,2.68,-2.51,154.25,0.89,1.735475444,19.215667,0.47,1.02470536896592
+ID-22,75343.0,CC(Cl)Cl,"1,1-Dichloroethane",Acute III,Slightly toxic & relatively nontoxic,1.72,-1.15,98.96,0.181,2.665130594,8.3377,0.46,0.822511909924601
+ID-115,95783.0,NC1=CC(C)=CC=C1C,"2,5-Dimethylaniline",Acute III,Slightly toxic & relatively nontoxic,1.79,-1.38,121.18,0.591,1.615804754,15.625597,0.83,1.17039472472849
+ID-108,95534.0,NC1=CC=CC=C1C,o-Toluidine,Acute III,Slightly toxic & relatively nontoxic,1.32,-1.0,107.15,0.407,1.798935642,13.697165,0.83,1.25343180884689
+ID-25,75912.0,CC(C)(OO)C,tert-Butylhydroperoxide,Acute III,Slightly toxic & relatively nontoxic,0.92,0.29,90.12,1.094,1.68063952,9.433246,0.81,0.227785974308879
+ID-413,2232088.0,O=S(N1C=CN=C1)(C2=CC=C(C)C=C2)=O,1-(p-Toluenesulphonyl)imidazole ,Acute III,Slightly toxic & relatively nontoxic,0.82,-2.22,222.26,-0.941,3.188726976,23.143067,0.8,1.08671754952777
+ID-497,31127545.0,O=C(C1=CC=C(O)C=C1)C2=CC=C(O)C(O)=C2O,"2,3,4,4'-Tetrahydroxybenzophenone",Acute III,Slightly toxic & relatively nontoxic,2.17,-2.86,246.22,-0.651,2.852477669,25.512047,0.8,1.52889580888875
+ID-151,100016.0,NC1=CC=C([N+]([O-])=O)C=C1,p-Nitroaniline,Acute III,Slightly toxic & relatively nontoxic,1.5,-1.74,138.13,-0.907,3.094450096,14.36777,0.8,1.14143604208479
+ID-330,504245.0,NC1=CC=NC=C1,4-Aminopyridine,Acute III,Slightly toxic & relatively nontoxic,0.08,0.46,94.12,-0.026,2.285574795,10.993562,0.8,1.08339187700511
+ID-23,75354.0,C=C(Cl)Cl,"Ethene, 1,1-dichloro-",Acute III,Slightly toxic & relatively nontoxic,1.97,-1.54,96.94,-0.181,2.761927286,8.033802,0.78,1.11150399832964
+ID-58,87627.0,NC1=C(C)C=CC=C1C,"2,6-Dimethylaniline",Acute III,Slightly toxic & relatively nontoxic,1.77,-1.37,121.18,0.487,1.722914013,15.572015,0.78,1.20828841149515
+ID-304,144627.0,O=C(O)C(O)=O,Oxalic acid,Acute III,Slightly toxic & relatively nontoxic,-0.51,-0.14,90.04,-1.068,3.726001571,6.189977,0.78,0.846004772187708
+ID-93,92706.0,O=C(O)C1=C(O)C=C2C=CC=CC2=C1,3-Hydroxy-2-naphthoic acid,Acute III,Slightly toxic & relatively nontoxic,3.3,-2.95,188.18,-1.304,3.532208302,20.805323,0.76,1.70036926692612
+ID-130,97881.0,CC(C(OCCCC)=O)=C,n-Butyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,2.59,-1.75,142.2,0.212,2.454220887,16.241001,0.76,1.21224106853539
+ID-21,75274.0,ClC(Br)Cl,Bromodichloromethane,Acute III,Slightly toxic & relatively nontoxic,1.85,-1.39,163.83,-0.816,3.421049911,9.634393,0.75,1.0110365733902
+ID-74,90040.0,NC1=CC=CC=C1OC,o-Anisidine,Acute III,Slightly toxic & relatively nontoxic,0.93,-0.59,123.15,0.211,1.955649318,14.407158,0.73,1.39345386296534
+ID-310,286624.0,C1(O2)C2CCCCCC1,Cyclooctene oxide,Acute III,Slightly toxic & relatively nontoxic,2.39,-2.98,126.2,2.546,1.145910003,15.155084,0.72,0.603493562238577
+ID-82,91225.0,C12=CC=CC=C1N=CC=C2,Quinoline,Acute III,Slightly toxic & relatively nontoxic,2.19,-1.58,129.16,-0.828,3.061089505,16.354557,0.71,1.17608229988478
+ID-07,60004.0,O=C(CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O)O,Ethylenediaminetetraacetic acid,Acute III,Slightly toxic & relatively nontoxic,-1.25,-1.5,292.25,-0.074,2.585545201,24.757629,0.71,0.7153321433064
+ID-66,88755.0,OC1=CC=CC=C1[N+]([O-])=O,o-Nitrophenol,Acute III,Slightly toxic & relatively nontoxic,1.91,-1.52,139.11,-1.196,3.565495017,13.367767,0.7,1.24982949838968
+ID-142,99650.0,O=[N+](C1=CC([N+]([O-])=O)=CC=C1)[O-],m-Dinitrobenzene,Acute III,Slightly toxic & relatively nontoxic,1.7,-3.06,168.11,-2.128,4.957954664,14.881293,0.68,1.5059167988265
+ID-424,2867472.0,CC(C(OCCN(C)C)=O)=C,2-(Dimethylamino)ethyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,0.87,-0.38,157.21,0.258,2.10057676,17.498179,0.68,1.14005719822355
+ID-12,62566.0,NC(N)=S,Thiourea,Acute III,Slightly toxic & relatively nontoxic,-1.07,-0.55,76.12,-0.042,2.167957456,7.39369,0.68,1.00717528962864
+ID-96,93152.0,COC1=CC(CC=C)=CC=C1OC,"4-Allyl-1,2-dimethoxybenzene",Acute III,Slightly toxic & relatively nontoxic,2.99,-2.98,178.23,0.111,2.190589094,21.099043,0.67,1.57385807165386
+ID-217,110190.0,CC(OCC(C)C)=O,Isobutyl acetate,Acute III,Slightly toxic & relatively nontoxic,1.74,-1.18,116.16,1.181,1.875682862,12.773349,0.67,0.230872259105196
+ID-337,535137.0,CC(Cl)C(OCC)=O,Ethyl 2-chloropropionate,Acute III,Slightly toxic & relatively nontoxic,1.6,-1.06,136.58,-0.026,2.713562884,12.830704,0.66,0.904813168600412
+ID-13,63741.0,NS(=O)(C1=CC=C(N)C=C1)=O,Sulphanilamide,Acute III,Slightly toxic & relatively nontoxic,-0.16,-1.22,172.2,-0.251,2.456414904,17.046912,1.12,1.14333673211736
+ID-450,6117915.0,C/C=C/CO,2-Buten-1-ol,Acute II,Highly & moderately toxic,0.77,0.47,72.11,0.928,1.851739259,8.530481,1.11,0.410403187202763
+ID-303,143191.0,CCCCCCCC/C=C\CCCCCCCC([O-])=O,Sodium oleate,Acute III,Slightly toxic & relatively nontoxic,7.71,-6.99,304.45,1.34,1.524851677,34.376589,1.1,1.27107298755868
+ID-122,96128.0,ClCC(Br)CBr,"1,2-Dibromo-3-chloropropane",Acute III,Slightly toxic & relatively nontoxic,2.95,-3.12,236.33,-0.214,2.757509256,14.28631,1.1,1.98498369872955
+ID-99,95089.0,CCC(CC)C(OCCOCCOCCOC(C(CC)CC)=O)=O,"2,2'-Ethylenedioxydiethyl bis(2-ethylbutyrate)",Acute III,Slightly toxic & relatively nontoxic,3.85,-4.43,346.46,1.005,1.905751551,37.16438,1.09,1.14587367883195
+ID-460,10500579.0,C12=C(N=CC=C2)CCCC1,"5,6,7,8-Tetrahydroquinoline",Acute III,Slightly toxic & relatively nontoxic,2.24,-1.09,133.19,0.073,2.309059416,16.654947,1.08,1.37949832330935
+ID-30,78513.0,O=P(OCCOCCCC)(OCCOCCCC)OCCOCCCC,Tris(2-butoxyethyl) phosphate,Acute III,Slightly toxic & relatively nontoxic,3.31,-3.32,398.48,-0.09,2.504588944,43.462721,1.08,1.67430397842602
+ID-35,79016.0,ClC(Cl)=CCl,Trichloroethylene,Acute III,Slightly toxic & relatively nontoxic,2.45,-1.83,131.39,-0.718,3.169256413,10.320296,1.08,1.18624857516149
+ID-60,88051.0,NC1=C(C)C=C(C)C=C1C,"2,4,6-Trimethylaniline",Acute III,Slightly toxic & relatively nontoxic,2.27,-1.88,135.21,0.594,1.546289318,17.565315,1.05,1.20410419064166
+ID-396,1151979.0,O=[N+](C1=CC=C(CC2=NC=CC=C2)C([N+]([O-])=O)=C1)[O-],"2-[(2,4-Dinitrophenyl)methyl]pyridine",Acute III,Slightly toxic & relatively nontoxic,2.5,-3.36,259.22,-1.885,4.434659821,25.773795,1.05,1.77201743899669
+ID-349,576261.0,CC1=CC=CC(C)=C1O,"2,6-Xylenol ",Acute III,Slightly toxic & relatively nontoxic,2.32,-1.3,122.17,0.27,2.022228549,14.884071,1.05,1.26189012899333
+ID-162,100696.0,C=CC1=NC=CC=C1,2-Vinylpyridine,Acute II,Highly & moderately toxic,1.48,-0.4,105.14,-0.503,2.786790452,13.416263,1.044,1.23846873794115
+ID-410,2100427.0,ClC1=CC(OC)=CC=C1OC,2-Chlorohydroquinonedimethylether,Acute III,Slightly toxic & relatively nontoxic,2.77,-2.74,172.61,-0.316,2.512176479,17.784617,1.01,1.93415165275878
+ID-265,122576.0,CC(/C=C/C1=CC=CC=C1)=O,Benzalacetone,Acute III,Slightly toxic & relatively nontoxic,2.23,-2.7,146.19,-0.689,2.97929738,18.298786,0.99,1.41555636481528
+ID-329,497187.0,NNC(NN)=O,Carbonohydrazide,Acute II,Highly & moderately toxic,-2.23,0.11,90.08,0.652,2.010532418,7.683808,0.98,0.744171103413126
+ID-197,108054.0,CC(OC=C)=O,Vinyl acetate,Acute II,Highly & moderately toxic,0.83,-0.12,86.09,0.397,2.237293333,9.037819,0.97,0.985660083225095
+ID-356,606202.0,CC1=C([N+]([O-])=O)C=CC=C1[N+]([O-])=O,"2,6-Dinitrotoluene",Acute III,Slightly toxic & relatively nontoxic,1.81,-3.2,182.14,-1.918,4.593967415,16.797742,0.96,1.3732899837418
+ID-400,1477550.0,NCC1=CC=CC(CN)=C1,m-Phenylenebis(methylamine),Acute III,Slightly toxic & relatively nontoxic,-0.45,-1.21,136.2,0.065,2.301696381,16.493677,0.96,1.10920276588478
+ID-402,1502223.0,O=C1C(C2=CCCCC2)CCCC1,2-(1-cyclohexen-1-yl)cyclohexan-1-one,Acute III,Slightly toxic & relatively nontoxic,3.35,-2.8,178.27,0.9,1.709555347,21.646893,0.95,1.27387272694085
+ID-116,95807.0,CC1=CC=C(N)C=C1N,"2,4-Diaminotoluene",Acute III,Slightly toxic & relatively nontoxic,0.37,-0.49,122.17,0.625,1.569442648,15.127038,0.91,1.21160037086543
+ID-40,80046.0,CC(C1CCC(O)CC1)(C2CCC(O)CC2)C,"4,4'-isopropylidenedicyclohexanol",Acute III,Slightly toxic & relatively nontoxic,3.86,-3.67,240.39,2.879,1.038208736,28.363072,0.89,1.07055724188045
+ID-277,124481.0,ClC(Br)Br,Dibromochloromethane,Acute III,Slightly toxic & relatively nontoxic,2.17,-1.64,208.28,-0.847,3.371175133,10.764128,0.89,1.13482606599938
+ID-299,142961.0,CCCCOCCCC,"Butane, 1,1'-oxybis-",Acute III,Slightly toxic & relatively nontoxic,3.04,-2.9,130.23,2.464,1.086995416,16.189327,0.88,0.64604705488729
+ID-386,873325.0,N#CC1=CC=CC=C1Cl,o-Chlorobenzonitrile,Acute III,Slightly toxic & relatively nontoxic,2.35,-2.25,137.57,-1.17,3.590293126,14.738893,0.88,1.31029948135333
+ID-38,79196.0,NNC(N)=S,Thiosemicarbazide,Acute III,Slightly toxic & relatively nontoxic,-1.22,-0.54,91.13,-0.157,2.255440706,8.753041,0.88,0.926436590381795
+ID-138,98873.0,ClC(Cl)C1=CC=CC=C1,"alpha,alpha-Dichlorotoluene",Acute III,Slightly toxic & relatively nontoxic,3.02,-3.34,161.03,-0.715,3.132330715,16.328324,0.86,1.63749634201179
+ID-227,111035.0,CCCCCCCC/C=C\CCCCCCCC(OCC(O)CO)=O,"2,3-Dihydroxypropyl oleate",Acute III,Slightly toxic & relatively nontoxic,6.32,-5.37,356.54,0.582,2.025392212,41.068055,0.86,1.08727103596728
+ID-466,14802030.0,CCCCC(CC)CP(O)(OCC(CC)CCCC)=O,2-Ethylhexyl hydrogen (2-ethylhexyl)phosphonate,Acute III,Slightly toxic & relatively nontoxic,5.32,-4.53,306.42,0.629,1.969883044,36.529028,0.85,1.57306381754716
+ID-52,85416.0,O=C(N1)C2=CC=CC=C2C1=O,Phthalimide,Acute III,Slightly toxic & relatively nontoxic,0.83,-1.61,147.13,-1.472,4.009764278,15.640101,0.85,1.03101753573465
+ID-68,89407.0,O=C(N1)C2=CC=C([N+]([O-])=O)C=C2C1=O,4-Nitrophthalimide,Acute III,Slightly toxic & relatively nontoxic,0.57,-2.39,192.13,-2.418,5.301521635,17.990416,0.84,1.48413358469285
+ID-350,577117.0,CCC(COC(C(CC(OCC(CC)CCCC)=O)S([O-])(=O)=O)=O)CCCC,Docusate sodium,Acute III,Slightly toxic & relatively nontoxic,4.11,-5.13,444.56,0.508,2.278597869,43.056897,1.37,1.36960064731023
+ID-296,140885.0,C=CC(OCC)=O,Ethyl acrylate,Acute II,Highly & moderately toxic,1.24,-0.41,100.12,-0.217,2.872939845,10.651887,1.36,0.935339077296629
+ID-168,101837.0,C1(NC2CCCCC2)CCCCC1,Dicyclohexylamine,Acute II,Highly & moderately toxic,4.16,-4.27,181.32,3.238,0.62017495,22.996463,1.36,1.38708076474207
+ID-207,108883.0,CC1=CC=CC=C1,Toluene,Acute II,Highly & moderately toxic,2.56,-2.26,92.14,0.317,2.129063969,12.26971,1.35,1.32317463077448
+ID-379,818611.0,C=CC(OCCO)=O,2-Hydroxyethyl acrylate,Acute II,Highly & moderately toxic,0.04,0.26,116.12,-0.399,2.99691152,11.308521,1.35,0.956049850498491
+ID-312,298077.0,O=P(OCC(CC)CCCC)(OCC(CC)CCCC)O,Bis(2-ethylhexan-1-yl) hydrogen phosphate,Acute III,Slightly toxic & relatively nontoxic,5.15,-3.75,322.42,-0.042,2.465431987,37.277037,1.33,1.86723664463594
+ID-316,350301.0,O=[N+](C1=CC=C(F)C(Cl)=C1)[O-],2-Chloro-1-fluoro-4-nitrobenzene,Acute II,Highly & moderately toxic,2.56,-2.92,175.55,-1.815,4.392249149,14.787711,1.33,1.67941576345072
+ID-33,78795.0,C=CC(C)=C,Isoprene,Acute II,Highly & moderately toxic,2.22,-1.58,68.12,0.49,2.061991719,9.524841,1.33,1.07901128714061
+ID-431,3452979.0,CC(C)(C)CC(C)CCO,"3,5,5-Trimethyl-1-hexanol",Acute II,Highly & moderately toxic,3.44,-2.38,144.26,2.905,1.068691099,17.788519,1.33,0.944285622016807
+ID-454,6807176.0,CC(C1=CC=C(O)C=C1)(C2=CC=C(O)C=C2)CC(C)C,"4,4'-(4-Methylpentane-2,2-diyl)diphenol",Acute III,Slightly toxic & relatively nontoxic,4.91,-4.25,270.37,0.063,2.169194606,32.766225,1.32,1.97156617837523
+ID-488,25377735.0,O=C(O1)C(/C=C/CCCCCCCCCC)CC1=O,Dodecenylsuccinic anhydride,Acute III,Slightly toxic & relatively nontoxic,5.73,-5.75,266.38,0.103,2.518762019,30.479498,1.31,2.06306859379117
+ID-54,86306.0,O=NN(C1=CC=CC=C1)C2=CC=CC=C2,N-Nitrosodiphenylamine,Acute III,Slightly toxic & relatively nontoxic,3.2,-3.21,198.22,-0.429,2.59545,23.641545,1.3,2.17321853787279
+ID-458,9002931.0,CC(C1=CC=C(O)C=C1)(C2=CC=C(O)C=C2)CC(C)C,"4,4'-(4-Methylpentane-2,2-diyl)diphenol",Acute III,Slightly toxic & relatively nontoxic,4.91,-4.25,270.37,0.07,2.164798282,32.777429,1.29,1.97606802144867
+ID-01,56235.0,ClC(Cl)(Cl)Cl,Carbon tetrachloride,Acute II,Highly & moderately toxic,2.64,-1.93,153.82,-1.394,4.230116849,10.634104,1.28,1.83214730376682
+ID-41,80057.0,OC1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)O,Bisphenol A,Acute III,Slightly toxic & relatively nontoxic,3.81,-3.42,228.29,0.063,2.174443563,27.296143,1.25,1.84507304710427
+ID-459,9014908.0,CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOS(=O)(=O)[O-])cc1,[Na+].CCCCCCCCCc1ccc(OCCOCCOCCOCCOCCOCCOS(=O)(=O)[O-])cc1,Acute III,Slightly toxic & relatively nontoxic,3.89,-5.99,541.74,-1.211,3.389093676,59.189783,1.24,1.24265913926299
+ID-360,620928.0,OC1=CC=C(CC2=CC=C(O)C=C2)C=C1,"4,4'-Dihydroxydiphenylmethane",Acute III,Slightly toxic & relatively nontoxic,2.61,-3.1,200.24,0.024,2.207314538,23.590316,1.22,1.57148308814694
+ID-380,822162.0,CCCCCCCCCCCCCCCCCC([O-])=O,Sodium stearate,Acute III,Slightly toxic & relatively nontoxic,8.02,-6.63,306.46,2.278,1.263443547,34.49065,1.21,1.21224561059888
+ID-481,22720758.0,CC(C1=CC2=CC=CC=C2S1)=O,1-Benzo[b]thien-2-ylethan-1-one,Acute III,Slightly toxic & relatively nontoxic,2.77,-3.31,176.23,-1.142,3.228850952,20.795125,1.21,1.66793553936559
+ID-184,106423.0,CC1=CC=C(C)C=C1,p-Xylene,Acute II,Highly & moderately toxic,3.15,-2.72,106.17,0.387,1.995818441,14.207143,1.19,1.48164934400909
+ID-286,131179.0,O=C(OCC=C)C1=CC=CC=C1C(OCC=C)=O,Diallyl phthalate,Acute III,Slightly toxic & relatively nontoxic,2.71,-3.67,246.26,-0.908,3.346671629,26.771,1.19,1.71049531994779
+ID-140,99092.0,NC1=CC=CC([N+]([O-])=O)=C1,"Benzenamine, 3-nitro-",Acute II,Highly & moderately toxic,1.53,-1.79,138.13,-1.159,3.317067519,14.166285,1.18,1.25144862174217
+ID-505,51963827.0,NC1=CC(OCC)=C(N2CCOCC2)C=C1OCC,"Benzenamine, 2,5-diethoxy-4-(4-morpholinyl)-",Acute III,Slightly toxic & relatively nontoxic,1.97,-1.76,266.34,0.435,1.608171834,29.839609,1.17,1.24396773428822
+ID-244,112572.0,NCCNCCNCCNCCN,Tetraethylenepentamine,Acute III,Slightly toxic & relatively nontoxic,-1.76,-2.23,189.3,2.471,0.93902092,21.506565,1.16,1.13916889167666
+ID-428,3268493.0,O=CCCSC,3-(Methylthio)propionaldehyde,Acute II,Highly & moderately toxic,1.22,-0.9,104.17,-0.066,2.233252596,11.201244,1.16,1.5281840038576
+ID-320,394503.0,O=CC1=CC=CC(F)=C1O,3-Fluoro-2-hydroxybenzaldehyde,Acute II,Highly & moderately toxic,1.57,-1.46,140.11,-0.996,3.316795223,13.380344,1.15,1.13111672112828
+ID-65,88744.0,NC1=CC=CC=C1[N+]([O-])=O,o-Nitroaniline,Acute III,Slightly toxic & relatively nontoxic,1.43,-1.84,138.13,-1.044,3.211731069,14.147744,1.14,1.20047667313319
+ID-56,87592.0,NC1=CC=CC(C)=C1C,"2,3-Dimethylaniline",Acute II,Highly & moderately toxic,1.8,-1.39,121.18,0.582,1.628005527,15.586664,1.13,1.17430144858341
+ID-87,91667.0,CCN(CC)C1=CC=CC=C1,"N,N-Diethylaniline",Acute III,Slightly toxic & relatively nontoxic,3.43,-1.81,149.24,0.284,2.032736568,19.044433,1.13,1.45332315804491
+ID-375,764136.0,CC(C)=CC=C(C)C,"2,5-Dimethylhexa-2,4-diene",Acute II,Highly & moderately toxic,3.55,-1.62,110.2,0.773,1.61625043,15.601257,1.42,1.24171404863985
+ID-171,102067.0,N=C(NC1=CC=CC=C1)NC2=CC=CC=C2,"1,3-Diphenylguanidine",Acute II,Highly & moderately toxic,2.67,-2.75,211.27,-0.146,2.291736411,26.574026,1.42,1.75845747588986
+ID-423,2840280.0,O=C(O)C1=CC=C(Cl)C(N)=C1,3-Amino-4-chlorobenzoic acid,Acute II,Highly & moderately toxic,1.46,-2.13,171.58,-0.929,3.082588826,16.811445,1.4,1.20858578059695
+ID-297,141322.0,C=CC(OCCCC)=O,n-Butyl acrylate,Acute II,Highly & moderately toxic,2.2,-1.51,128.17,-0.288,2.858592098,14.424772,1.39,1.24101076414845
+ID-119,95874.0,CC1=CC=C(C)C=C1O,"2,5-Xylenol",Acute II,Highly & moderately toxic,2.35,-1.3,122.17,0.256,2.023958888,14.923656,1.37,1.27659175945063
+ID-392,948652.0,C(N1)(C2=CC=CC=C2)=CC3=C1C=CC=C3,2-Phenylindole,Acute I,Highly & moderately toxic,4.12,-4.09,193.25,-0.449,2.485556053,25.477795,2.81,2.54033182329697
+ID-81,91178.0,C12CCCCC1CCCC2,Bicyclo[4.4.0]decane,Acute I,Highly & moderately toxic,4.92,-5.05,138.25,3.81,0.752840337,18.109994,2.78,2.91383437068339
+ID-406,1806264.0,OC1=CC=C(CCCCCCCC)C=C1,p-Octylphenol,Acute I,Highly & moderately toxic,5.49,-4.75,206.33,0.104,2.158695667,25.952304,2.69,2.37358136907775
+ID-08,60093.0,NC1=CC=C(/N=N/C2=CC=CC=C2)C=C1,"Aniline, p-(phenylazo)-",Acute I,Highly & moderately toxic,4.02,-3.82,197.24,-0.916,2.887132551,25.883654,2.63,2.15700752528483
+ID-486,25321099.0,CC(C1=CC=CC=C1C(C)C)C,Diisopropylbenzene,Acute I,Highly & moderately toxic,4.93,-4.83,162.27,0.473,1.972836266,21.489475,2.62,2.36928349450771
+ID-55,86737.0,C1(CC2=C3C=CC=C2)=C3C=CC=C1,Fluorene,Acute I,Highly & moderately toxic,4.26,-4.82,166.22,-0.414,2.54703115,22.036704,2.53,2.44996827838728
+ID-114,95761.0,NC1=CC=C(Cl)C(Cl)=C1,"3,4-Dichloroaniline",Acute I,Highly & moderately toxic,2.74,-2.16,162.02,-0.398,2.510168428,15.989485,2.47,1.87795443419592
+ID-284,128370.0,OC1=C(C(C)(C)C)C=C(C)C=C1C(C)(C)C,"2,6-Di-tert-butyl-4-methylphenol",Acute I,Highly & moderately toxic,5.25,-4.16,220.35,0.404,1.835123973,27.787089,2.42,2.61353471853231
+ID-457,7212444.0,C=CC(O)(C)CC/C=C(C)/CCC=C(C)C,"1,6,10-Dodecatrien-3-ol, 3,7,11-trimethyl-",Acute I,Highly & moderately toxic,4.55,-4.02,222.37,1.11,1.566034142,28.136345,2.37,2.25476390275578
+ID-446,5510996.0,OC1=C(C(C)CC)C=CC=C1C(C)CC,"2,6-Di-sec-butylphenol",Acute I,Highly & moderately toxic,4.85,-3.6,206.33,0.321,1.974029803,25.831837,2.33,2.21751902001873
+ID-293,138863.0,CC1=CCC(C(C)=C)CC1,"p-Mentha-1,8-diene",Acute I,Highly & moderately toxic,4.5,-2.47,136.24,1.23,1.521136224,18.236921,2.29,1.52215674400904
+ID-467,14938353.0,OC1=CC=C(CCCCC)C=C1,4-Pentylphenol,Acute I,Highly & moderately toxic,4.11,-3.16,164.25,0.106,2.157241821,20.428253,2.26,1.77877972503805
+ID-279,126727.0,O=P(OCC(Br)CBr)(OCC(Br)CBr)OCC(Br)CBr,"Tris(2,3-dibromopropyl)phosphate",Acute II,Highly & moderately toxic,4.63,-5.27,697.61,-0.691,3.033615368,43.008776,2.22,1.80691720616381
+ID-348,575417.0,CC1=CC(C)=C2C=CC=CC2=C1,"1,3-Dimethylnaphthalene",Acute I,Highly & moderately toxic,4.36,-4.6,156.23,-0.374,2.446512406,21.026558,2.2,2.43481270679613
+ID-347,573988.0,CC1=CC=C2C=CC=CC2=C1C,"1,2-Dimethylnaphthalene",Acute II,Highly & moderately toxic,4.38,-4.58,156.23,-0.378,2.453605035,20.999712,2.15,2.43514910107811
+ID-322,406860.0,N#C/C=C/C(F)(F)F,"4,4,4-Trifluorocrotonitrile",Acute I,Highly & moderately toxic,1.83,-2.12,121.06,-1.588,4.459072867,8.416294,2.52,1.37024794168216
+ID-435,4016244.0,CCCCCCCCCCCCCCC(S(=O)([O-])=O)C(OC)=O,Sodium 1-methoxy-1-oxohexadecane-2-sulphonate,Acute II,Highly & moderately toxic,4.87,-5.12,372.49,0.482,2.273243965,37.126634,2.49,1.34671311137818
+ID-494,29082744.0,ClC(Cl)=C(Cl)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,Octachlorostyrene,Acute I,Highly & moderately toxic,6.75,-8.41,379.71,-1.783,4.256956792,30.690554,4.82,3.92319785530331
+ID-354,593088.0,CC(CCCCCCCCCCC)=O,2-Tridecanone,Acute I,Highly & moderately toxic,5.22,-5.39,198.35,0.957,1.887654771,24.871097,4.39,2.49293237147594
+ID-302,143102.0,CCCCCCCCCCS,1-Decanethiol,Acute I,Highly & moderately toxic,6.24,-4.75,174.34,-0.223,2.382023714,21.840295,4.24,2.81022189331114
+ID-393,1116763.0,CCCCCCCCN(CCCCCCCC)CCCCCCCC,Tri-n-octylamine,Acute I,Highly & moderately toxic,9.31,-7.48,353.67,2.848,0.728165273,46.131011,4.13,4.26099482792861
+ID-239,111886.0,CCCCCCCCS,1-Mercaptooctane,Acute I,Highly & moderately toxic,4.95,-3.82,146.29,-0.222,2.381221384,18.158562,3.79,2.36324895277172
+ID-247,115322.0,ClC1=CC=C(C(O)(C(Cl)(Cl)Cl)C2=CC=C(Cl)C=C2)C=C1,Kelthane,Acute I,Highly & moderately toxic,5.59,-6.56,370.49,-0.869,3.223612591,34.631377,3.59,3.04022413031291
+ID-346,569642.0,C[N+](C)=C1C=CC(C=C1)=C(C2=CC=C(N(C)C)C=C2)C3=CC=CC=C3,"(4-{[4-(Dimethylamino)phenyl](phenyl)methylidene}cyclohexa-2,5-dien-1-ylidene)(dimethyl)ammonium chloride",Acute I,Highly & moderately toxic,0.25,-5.42,364.92,-0.702,2.612089007,46.681208,3.45,3.01050556030611
+ID-270,123319.0,OC1=CC=C(O)C=C1,Hydroquinone,Acute I,Highly & moderately toxic,0.71,-0.06,110.11,-0.199,2.353105839,11.861921,3.26,1.19954097983199
+ID-145,99821.0,CC1CCC(C(C)C)CC1,p-Menthane,Acute I,Highly & moderately toxic,4.95,-5.03,140.27,3.97,0.719639299,18.562883,3.07,2.82786395931028
+ID-43,80433.0,CC(OOC(C)(C1=CC=CC=C1)C)(C2=CC=CC=C2)C,Di-alpha-cumyl peroxide,Acute I,Highly & moderately toxic,5.43,-5.72,270.37,0.183,2.19003334,32.875638,3.02,2.34653200980248
+ID-409,1953997.0,N#CC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1C#N,"3,4,5,6-Tetrachlorobenzene-1,2-dicarbonitrile",Acute I,Highly & moderately toxic,3.98,-4.45,265.91,-2.425,5.189227084,23.622433,2.95,3.26985664221346
+ID-05,58275.0,O=C(C(C)=C1)C(C=CC=C2)=C2C1=O,Menadione,Acute I,Highly & moderately toxic,1.91,-2.53,172.18,-1.666,4.154911941,19.77911,2.89,1.67642469694352
+ID-461,11070443.0,O=C(O1)C2(C)C(CCC=C2)C1=O,Tetrahydromethylphthalic anhydride,Acute III,Slightly toxic & relatively nontoxic,1.16,-1.53,166.18,0.124,2.493469419,17.246565,0.11,1.00210457145276
+ID-194,107062.0,ClCCCl,"1,2-Dichloroethane",Acute III,Slightly toxic & relatively nontoxic,1.48,-1.22,98.96,-0.151,2.915313626,8.310117,0.0,0.924973156215993
+ID-224,110850.0,N1CCNCC1,Piperazine,Acute III,Slightly toxic & relatively nontoxic,-1.16,0.63,86.14,2.927,0.719958802,10.032048,-0.11,0.659231486419033
+ID-31,78591.0,O=C1C=C(C)CC(C)(C)C1,"3,5,5-Trimethyl-2-cyclohexen-1-one",Acute III,Slightly toxic & relatively nontoxic,1.9,-1.86,138.21,0.043,2.413688174,16.890446,-0.2,1.3643385076446
+ID-442,4798441.0,C=CC(O)CCC,1-Hexen-3-ol,Acute III,Slightly toxic & relatively nontoxic,1.71,-0.7,100.16,0.88,1.984997966,12.127015,-0.32,0.375883034489266
+ID-14,67481.0,OCC[N+](C)(C)C,Choline chloride,Acute III,Slightly toxic & relatively nontoxic,-3.59,-1.59,139.62,0.01,2.108011804,13.790089,-0.4,0.831644705654569
+ID-172,102761.0,O=C(OCC(COC(C)=O)OC(C)=O)C,Triacetin,Acute III,Slightly toxic & relatively nontoxic,0.4,-1.29,218.21,0.947,2.055137241,19.746893,-0.55,-0.00605393518229677
+ID-123,96231.0,OC(CCl)CCl,"1,3-Dichloro-2-propanol",Acute III,Slightly toxic & relatively nontoxic,0.71,-0.46,128.99,0.279,2.565108842,10.641106,-0.75,0.717413347914014
+ID-267,123115.0,O=CC1=CC=C(OC)C=C1,p-Methoxybenzaldehyde,Acute III,Slightly toxic & relatively nontoxic,1.64,-1.9,136.15,-0.512,2.755107409,15.427328,0.48,1.40115571163593
+ID-209,108918.0,NC1CCCCC1,Cyclohexylamine,Acute III,Slightly toxic & relatively nontoxic,1.3,-1.1,99.18,3.463,0.670899808,12.426639,0.44,0.479597195647669
+ID-135,98599.0,CC1=CC=C(S(=O)(Cl)=O)C=C1,4-Toluenesulfonyl chloride,Acute III,Slightly toxic & relatively nontoxic,1.93,-2.69,190.64,-1.063,3.54910872,18.551182,0.42,1.36648920957614
+ID-230,111171.0,O=C(O)CCSCCC(O)=O,"3,3'-Thiodipropionic acid",Acute III,Slightly toxic & relatively nontoxic,0.19,-1.39,178.2,-0.545,2.724618298,16.392013,0.39,0.926834213568415
+ID-274,124072.0,CCCCCCCC(O)=O,Octanoic acid,Acute III,Slightly toxic & relatively nontoxic,2.92,-2.2,144.21,0.978,2.073485022,16.283448,0.36,0.907216547474066
+ID-235,111706.0,CCCCCCCO,1-Heptanol,Acute III,Slightly toxic & relatively nontoxic,2.53,-1.7,116.2,2.849,1.102432189,14.232746,0.32,0.573054020855407
+ID-228,111148.0,CCCCCCC(O)=O,Heptanoic acid,Acute III,Slightly toxic & relatively nontoxic,2.41,-1.64,130.19,0.979,2.073865779,14.445818,0.26,0.43713826054257
+ID-249,115968.0,O=P(OCCCl)(OCCCl)OCCCl,Tris(2-chloroethyl) phosphate,Acute III,Slightly toxic & relatively nontoxic,1.36,-1.64,285.49,-0.75,3.212740174,25.248124,0.23,1.10317967104577
+ID-415,2403885.0,OC1CC(C)(C)NC(C)(C)C1,"2,2,6,6-Tetramethylpiperidin-4-ol",Acute III,Slightly toxic & relatively nontoxic,1.12,-0.38,157.26,2.866,0.762377744,18.496676,0.2,0.379020486022288
+ID-362,623154.0,CC(/C=C/C1=CC=CO1)=O,4-(2-Furyl)but-3-en-2-one,Acute III,Slightly toxic & relatively nontoxic,1.42,-1.82,136.15,-0.592,2.787902361,15.460254,1.02,1.30620890677936
+ID-417,2425798.0,C1(CO1)COCCCCOCC2CO2,"1,4-Bis(2,3-epoxypropoxy)butane",Acute III,Slightly toxic & relatively nontoxic,0.39,-1.5,202.25,1.784,1.458905142,21.049569,0.96,0.37942707138555
+ID-343,555033.0,COC1=CC=CC([N+]([O-])=O)=C1,m-Nitroanisole,Acute III,Slightly toxic & relatively nontoxic,2.0,-2.23,153.14,-1.296,3.604100996,15.377254,0.91,1.3932903030994
+ID-317,352874.0,CC(C(OCC(F)(F)F)=O)=C,"2,2,2-Trifluoroethyl methacrylate",Acute III,Slightly toxic & relatively nontoxic,1.56,-1.82,168.12,-0.474,3.098578563,12.588829,0.88,1.03345718196851
+ID-100,95169.0,C12=CC=CC=C1SC=N2,Benzothiazole,Acute III,Slightly toxic & relatively nontoxic,2.13,-2.25,135.18,-0.918,3.072196076,15.766474,0.85,1.28109982235081
+ID-268,123159.0,CCCC(C)C=O,2-Methylvaleraldehyde,Acute III,Slightly toxic & relatively nontoxic,1.72,-1.25,100.16,0.709,2.017155011,11.989672,0.83,0.683287635006214
+ID-210,108952.0,OC1=CC=CC=C1,Phenol,Acute III,Slightly toxic & relatively nontoxic,1.39,-0.31,94.11,0.036,2.281889791,11.079359,0.8,1.35456394766822
+ID-193,106912.0,CC(C(OCC1CO1)=O)=C,Glycidyl methacrylate,Acute III,Slightly toxic & relatively nontoxic,0.72,-0.65,142.15,0.344,2.369695888,14.512744,0.76,0.8336646494514
+ID-20,75263.0,CC(Br)C,2-Bromopropane,Acute III,Slightly toxic & relatively nontoxic,1.83,-1.57,122.99,0.542,2.133487135,9.389064,0.73,0.899535398133605
+ID-441,4418615.0,NC1=NN=NN1,5-Aminotetrazole,Acute III,Slightly toxic & relatively nontoxic,-1.03,-0.28,85.07,-0.361,2.68386164,7.297162,0.7,1.07347912621137
+ID-366,638164.0,SC1=NC(S)=NC(S)=N1,"1,3,5-Triazine-2,4,6-trithiol ",Acute III,Slightly toxic & relatively nontoxic,0.09,-3.33,177.26,-2.031,4.441924663,20.149175,0.67,0.916679881873926
+ID-144,99763.0,O=C(OC)C1=CC=C(O)C=C1,Methyl p-hydroxybenzoate,Acute III,Slightly toxic & relatively nontoxic,2.17,-1.62,152.15,-0.551,2.859609081,15.914669,0.63,1.341481663311
+ID-499,40220084.0,O=C(N(CCO)C(N1CCO)=O)N(CCOC(C=C)=O)C1=O,Tris(2-hydroxyethyl)isocyanuric acid acrylate,Acute III,Slightly toxic & relatively nontoxic,-1.09,-1.77,315.28,-0.74,3.236839317,28.636739,0.56,0.93354552091909
+ID-426,3030475.0,CN(CCN(C)CCN(C)C)C,"N-Methyl-N,N-bis(2-dimethylaminoethyl)amine",Acute III,Slightly toxic & relatively nontoxic,0.72,0.0,173.3,2.581,0.807093319,21.087051,0.53,0.488588361691673
+ID-213,109648.0,BrCCCBr,"1,3-Dibromopropane",Acute II,Highly & moderately toxic,2.55,-2.45,201.89,0.135,2.475246694,12.412853,1.36,1.34170828691465
+ID-70,89645.0,OC1=CC=C(Cl)C=C1[N+]([O-])=O,4-Chloro-2-nitrophenol,Acute II,Highly & moderately toxic,2.56,-2.32,173.56,-1.565,3.960450938,15.47237,1.34,1.92794193079714
+ID-195,107131.0,C=CC#N,2-Propenenitrile,Acute II,Highly & moderately toxic,0.2,-0.55,53.06,-0.541,3.253498953,6.336102,1.33,0.811709944106407
+ID-159,100618.0,CNC1=CC=CC=C1,N-Methylaniline,Acute II,Highly & moderately toxic,1.68,-0.9,107.15,0.407,1.785057639,13.787713,1.28,1.24272884545924
+ID-363,624920.0,CSSC,Dimethyl disulphide,Acute II,Highly & moderately toxic,1.15,-1.05,94.19,-0.782,2.858200056,10.669389,1.22,1.21626743937016
+ID-186,106445.0,CC1=CC=C(O)C=C1,p-Cresol,Acute II,Highly & moderately toxic,1.95,-0.67,108.14,0.095,2.161500333,13.026824,1.19,1.44486120950349
+ID-420,2439352.0,C=CC(OCCN(C)C)=O,2-(Dimethylamino)ethyl acrylate,Acute II,Highly & moderately toxic,0.58,-0.14,143.19,-0.003,2.293250982,15.664608,1.16,1.23086715501102
+ID-323,462088.0,NC1=CC=CN=C1,3-Aminopyridine,Acute II,Highly & moderately toxic,0.18,0.45,94.12,-0.043,2.19271505,11.149819,1.12,1.24480183934135
+ID-374,760236.0,C=CC(Cl)CCl,"3,4-Dichlorobut-1-ene",Acute II,Highly & moderately toxic,2.4,-2.58,125.0,-0.219,2.872775904,11.799001,1.1,1.39555426519436
+ID-232,111308.0,O=CCCCC=O,Glutaraldehyde,Acute II,Highly & moderately toxic,0.93,-0.19,100.12,0.43,2.284884649,10.372788,1.06,0.913421852244617
+ID-189,106489.0,OC1=CC=C(Cl)C=C1,p-Chlorophenol,Acute II,Highly & moderately toxic,2.37,-0.96,128.56,-0.41,2.660332624,13.148462,1.71,1.46133966459888
+ID-372,716790.0,C1(C2=CC=CC=C2)=NC3=CC=CC=C3N1,"1H-Benzimidazole, 2-phenyl-",Acute II,Highly & moderately toxic,3.35,-3.26,194.24,-0.786,2.881257245,24.763221,1.67,1.88767130242216
+ID-487,25339177.0,CC(C)CCCCCCCO,Isodecyl alcohol,Acute II,Highly & moderately toxic,4.1,-3.42,158.28,2.852,1.100915097,19.720139,1.66,1.19450511393556
+ID-198,108383.0,CC1=CC=CC(C)=C1,m-Xylene,Acute II,Highly & moderately toxic,3.15,-2.72,106.17,0.412,2.020323662,14.179227,1.65,1.4786687780539
+ID-508,61788441.0,OC1=CC=CC=C1C(C)C2=CC=CC=C2,Mono-(alpha-methylbenzyl) phenol,Acute II,Highly & moderately toxic,3.92,-3.39,198.26,0.098,2.182803186,24.527894,1.63,1.82544244814319
+ID-62,88186.0,OC1=CC=CC=C1C(C)(C)C,2-tert-Butylphenol,Acute II,Highly & moderately toxic,3.35,-2.24,150.22,0.197,2.100730325,18.469796,1.61,1.50779913729745
+ID-342,554007.0,NC1=CC=C(Cl)C=C1Cl,"2,4-Dichloroaniline",Acute II,Highly & moderately toxic,2.73,-2.43,162.02,-0.452,2.546180358,15.997283,1.59,1.90896233777927
+ID-280,126738.0,O=P(OCCCC)(OCCCC)OCCCC,Tributyl phosphate,Acute II,Highly & moderately toxic,3.65,-2.15,266.32,0.06,2.377119344,30.507943,1.55,1.73724232868511
+ID-440,4286231.0,OC1=CC=C(C(C)=C)C=C1,4-(1-Methylethenyl)phenol,Acute II,Highly & moderately toxic,2.3,-1.42,134.18,0.031,2.24010579,16.605084,1.52,1.49618816928064
+ID-179,104949.0,NC1=CC=C(OC)C=C1,p-Anisidine,Acute II,Highly & moderately toxic,1.01,-0.73,123.15,0.237,1.791446451,14.636249,1.48,1.43673424272525
+ID-292,135193.0,OC1=CC=C2C=CC=CC2=C1,2-Naphthol,Acute II,Highly & moderately toxic,2.93,-2.3,144.17,-0.636,2.733620926,17.932717,1.44,1.74633319817835
+ID-301,143088.0,CCCCCCCCCO,1-Nonanol,Acute II,Highly & moderately toxic,3.76,-2.98,144.26,2.848,1.103006372,17.906222,1.4,1.03341086481071
+ID-106,95501.0,ClC1=CC=CC=C1Cl,o-Dichlorobenzene,Acute II,Highly & moderately toxic,3.45,-3.05,147.0,-0.613,2.967106116,14.382154,2.02,1.80709421024391
+ID-422,2479461.0,NC1=CC=C(OC2=CC=CC(OC3=CC=C(C=C3)N)=C2)C=C1,"4,4'-(m-Phenylenedioxy)dianiline",Acute II,Highly & moderately toxic,3.55,-4.38,292.34,-0.184,2.256342349,34.124021,2.0,2.15519991725666
+ID-147,99887.0,NC1=CC=C(C(C)C)C=C1,4-Isopropylaniline,Acute II,Highly & moderately toxic,2.27,-1.89,135.21,0.399,1.783887734,17.473562,1.96,1.26600877272223
+ID-169,101848.0,C1(OC2=CC=CC=C2)=CC=CC=C1,Diphenyl ether ,Acute II,Highly & moderately toxic,3.68,-3.59,170.21,-0.045,2.290975426,21.273353,1.93,1.89262000165188
+ID-109,95545.0,NC1=CC=CC=C1N,o-Phenylenediamine,Acute II,Highly & moderately toxic,-0.08,-0.14,108.14,0.274,1.845144207,13.145783,1.89,1.53139480353689
+ID-146,99876.0,CC1=CC=C(C(C)C)C=C1,p-Cymene,Acute II,Highly & moderately toxic,4.17,-3.9,134.22,0.418,1.978616866,17.888181,1.85,1.92694018183556
+ID-340,544014.0,CC(C)CCOCCC(C)C,Diisopentyl ether,Acute II,Highly & moderately toxic,4.08,-4.28,158.28,2.505,1.060801364,19.823915,1.84,0.997091727071905
+ID-76,90120.0,CC1=C2C=CC=CC2=CC=C1,1-Methylnaphthalene,Acute II,Highly & moderately toxic,3.84,-3.94,142.2,-0.45,2.543468342,19.064537,1.81,2.27843247112062
+ID-185,106434.0,CC1=CC=C(Cl)C=C1,p-Chlorotoluene,Acute II,Highly & moderately toxic,3.3,-3.04,126.59,-0.149,2.487126217,14.321115,1.8,1.95439224081019
+ID-429,3295941.0,CCCCCCOCC=C,Allyl n-hexyl ether,Acute II,Highly & moderately toxic,3.63,-3.93,142.24,1.219,1.638289649,17.635507,1.77,1.86736896314799
+ID-154,100403.0,C=CC1CC=CCC1,4-Vinylcyclohexene,Acute II,Highly & moderately toxic,3.49,-3.59,108.18,1.058,1.702161432,14.527998,1.76,1.64252043754952
+ID-202,108690.0,NC1=CC(C)=CC(C)=C1,"3,5-Dimethylaniline",Acute II,Highly & moderately toxic,1.82,-1.42,121.18,0.585,1.676486842,15.594842,1.74,1.15013716859806
+ID-89,91941.0,NC1=CC=C(C2=CC=C(N)C(Cl)=C2)C=C1Cl,"3,3'-Dichlorobenzidine",Acute II,Highly & moderately toxic,3.6,-4.26,253.13,-0.249,2.269201988,28.148803,2.13,2.28482403673466
+ID-236,111784.0,C1=CCCC=CCC1,"1,5-Cyclooctadiene",Acute I,Highly & moderately toxic,3.58,-3.27,108.18,1.286,1.552749069,14.337342,2.1,1.66733682460103
+ID-47,83329.0,C12=C3C(CC2)=CC=CC3=CC=C1,Acenaphthene,Acute II,Highly & moderately toxic,4.01,-4.5,154.21,-0.36,2.443915418,20.376518,2.07,2.37900029456199
+ID-263,122394.0,C1(NC2=CC=CC=C2)=CC=CC=C1,Diphenylamine,Acute II,Highly & moderately toxic,3.34,-2.83,169.23,-0.06,2.087943896,22.408316,2.05,1.75306116108411
